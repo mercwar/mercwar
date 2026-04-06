@@ -14,7 +14,7 @@
 > “Every artifact must bear its lineage — every correction is a cosmic milestone.”
 
 ###### 🌐 Core Project
-- 🧩 [FIREGEM Engine](https://github.com/mercwar/FIRE-GEM)
+- 🧩 [FIRE-GEM SHELL LLM](https://github.com/mercwar/FIRE-GEM)
 ---
 ######
 **© 2026 MERCWAR / AVIS Protocol Law.**  
