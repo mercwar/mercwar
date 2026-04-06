@@ -5,8 +5,9 @@
 - **Architect:** Demonizer (Joe Tron)  
 - **System Law:** AVIS‑2026
 - **Purpose:** Forge mythic, modular systems with canonical purity  
-- **Language:** C / C++ / Batch (DOS‑only)  
-- **Renderer:** DirectX 11 / FGEO Object Engine  
+- **Language:** C / C++ / VB / Java / PHP / DHTML 
+- **SHELL:**  MS DOS / LINUX BASH 
+- **Renderer:** MS Windows / Programs / DirectX / FGEO Object Engine  
 - **Governance:** RK Fire & Gem Protocol  
 ---
 ###### 🧠 Philosophy
