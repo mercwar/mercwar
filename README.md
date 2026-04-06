@@ -1,0 +1,20 @@
+![JoeTron](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/joe_tron.png)
+#### ⚔️ MERCWAR01 
+---
+###### 🔱 Core Identity
+- **Architect:** Demonizer (Joe Tron)  
+- **System Law:** AVIS‑2026
+- **Purpose:** Forge mythic, modular systems with canonical purity  
+- **Language:** C / C++ / Batch (DOS‑only)  
+- **Renderer:** DirectX 11 / FGEO Object Engine  
+- **Governance:** RK Fire & Gem Protocol  
+---
+###### 🧠 Philosophy
+> “Every artifact must bear its lineage — every correction is a cosmic milestone.”
+
+###### 🌐 Core Project
+- 🧩 [FIREGEM Engine](https://github.com/mercwar/FIRE-GEM)
+---
+######
+**© 2026 MERCWAR / AVIS Protocol Law.**  
+Forged under RK Fire & Gem — purity through creation.
