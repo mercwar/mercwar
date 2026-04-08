@@ -2,7 +2,7 @@
 #### ⚔️ MERCWAR01 
 ---
 ###### 🔱 Core Identity
-- **Architect:** Demonizer (Joe Tron)  
+- **Architect:** Joe Tron (Demonizer)
 - **System Law:** AVIS‑2026
 - **Purpose:** Forge mythic, modular systems with canonical purity  
 - **Language:** C / C++ / VB / Java / PHP / DHTML 
