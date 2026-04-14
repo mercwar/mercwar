@@ -1,4 +1,4 @@
-![JoeTron](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260414_034022.png)
+![JoeTron](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260414_034302.png)
 #### ⚔️ MERCWAR01 
 ---
 ###### 🔱 Core Identity
