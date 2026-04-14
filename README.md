@@ -48,8 +48,8 @@
 
 #### 📜 **Operational Philosophy**
 
-##### > “Execution without law is chaos. Execution with law becomes creation.”
-##### > “Every artifact carries lineage — every revision is recorded truth.”
+##### 🗝️ “Execution without law is chaos. Execution with law becomes creation.”
+##### 💍 “Every artifact carries lineage, every revision is recorded truth.”
 
 ---
 
