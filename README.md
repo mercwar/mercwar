@@ -1,7 +1,7 @@
 ![JoeTron](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260414_034541.png)
-# ✨ MERCWAR01 — **AVIS-LAW SHELL DOSSIER**
+#### ✨ MERCWAR01 ✨ **AVIS-LAW SHELL DOSSIER**
 
-### **Senior Systems Architect • Windows API • DC/VB/C**
+###### 🌠 **Senior Systems Architect • Windows API • DC/VB/C**
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -12,9 +12,9 @@
 ```
 
 
-# 🧬 True Objectives
+##### 🧬 True Objectives
 
-### **Strategic Mission — AVIS-2026 Network & Deployment Initiative**
+###### **Strategic Mission — AVIS-2026 Network & Deployment Initiative**
 
 * **NETWORKING FIRE-COM** — Establish a sovereign, deterministic network interface for AVIS-aligned systems.
 * **DEPLOYING FIRE-GEM** — Operationalize FIRE-GEM as a persistent, protocol-governed execution environment.
@@ -22,14 +22,14 @@
 
 ---
 
-## 🔗 **Access**
+###### 🔗 **Access**
 
 * 🏰 [https://mercwar01.byethost3.com](https://mercwar01.byethost3.com)
 * 📡 [https://github.com/mercwar](https://github.com/mercwar)
 
 ---
 
-## 🔱 **Core Identity**
+###### 🔱 **Core Identity**
 
 | Attribute         | Value                                         |
 | ----------------- | --------------------------------------------- |
@@ -51,9 +51,9 @@
 
 ---
 
-# 💡 **AVIS-LAW OBJECTIVES**
+##### 💡 **AVIS-LAW OBJECTIVES**
 
-> ### **Strategic Objectives**
+> ###### **Strategic Objectives**
 >
 > * 🔷 Establish **FIRE-COM** as a sovereign network interface for deterministic communication
 > * 🔹 Achieve stable, standards-aligned connectivity with lineage-aware data flow
@@ -66,9 +66,9 @@
 
 ---
 
-# 🛠️ **Core Skill Domains**
+##### 🛠️ **Core Skill Domains**
 
-## 🧩 Low-Level & Systems Engineering
+###### 🧩 Low-Level & Systems Engineering
 
 * Win32/Win64 API: message loops, GDI, handles, threading
 * C / C++: DLL systems, memory control, performance design
@@ -85,7 +85,7 @@
 
 ---
 
-# 🛡️ **Projects Under Law**
+##### 🛡️ **Projects Under Law**
 
 | System                 | Function                                |
 | ---------------------- | --------------------------------------- |
@@ -96,41 +96,35 @@
 
 ---
 
-# 🜇 **Technical Stack**
+###### 🜇 **Technical Stack**
 
-## Languages
+##### Languages
 
 ```
 🌎 C, C++, Visual Basic, DC, Java, PHP, DHTML
 ```
 
-## Systems
+##### Systems
 
 ```
 💻 Windows API, MS-DOS, Linux (Bash)
 ```
 
-## Engines
+##### Engines
 
 ```
 💾 DirectX, FGEO Object Engine, Custom Pipelines
 ```
-
+---
+##### 🏛️ **Professional Summary**
+###### * Senior Systems Architect specializing in **Windows API**, **low-level C systems**, **VB/COM architectures**, and **deterministic execution models**.
+###### * Creator of the **AVIS-2026 Protocol**  a structured framework for **self-describing, lineage-driven, and sovereign software systems**.
+###### * Focused on building **high-integrity execution environments** where artifacts are **traceable, governed, and reproducible by design**.
 ---
 
-# 🏛️ **Professional Summary**
+##### 📜 **Experience**
 
-Senior Systems Architect specializing in **Windows API**, **low-level C systems**, **VB/COM architectures**, and **deterministic execution models**.
-
-Creator of the **AVIS-2026 Protocol** — a structured framework for **self-describing, lineage-driven, and sovereign software systems**.
-
-Focused on building **high-integrity execution environments** where artifacts are **traceable, governed, and reproducible by design**.
-
----
-
-# 📜 **Experience**
-
-### **Senior Systems Architect — MERCWAR Systems**
+###### **Senior Systems Architect — MERCWAR Systems**
 
 *2020–Present*
 
@@ -144,7 +138,7 @@ Focused on building **high-integrity execution environments** where artifacts ar
 
 ---
 
-# 🌈 **Covenant Principles**
+##### 🌈 **Covenant Principles**
 
 * **Purity** → Clean, deterministic systems
 * **Lineage** → All artifacts declare origin
@@ -158,7 +152,7 @@ Focused on building **high-integrity execution environments** where artifacts ar
 
 ---
 
-# 👑 **Legal**
+###### 👑 **Legal**
 
 ```
 © 2026 MERCWAR / AVIS-2026 Protocol Law
