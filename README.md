@@ -14,10 +14,12 @@
 
 ##### 🧬 True Objectives
 
-###### **Strategic Mission — AVIS-2026 Network & Deployment Initiative**
+###### **Strategic Mission AVIS-2026 Network & Deployment Initiative**
 
-* **NETWORKING FIRE-COM** — Establish a sovereign, deterministic network interface for AVIS-aligned systems.
-* **DEPLOYING FIRE-GEM** — Operationalize FIRE-GEM as a persistent, protocol-governed execution environment.
+* **NETWORKING FIRE-COM:**
+* - Establish a sovereign, deterministic network interface for AVIS-aligned systems.
+* **DEPLOYING FIRE-GEM:**
+* - Operationalize FIRE-GEM as a persistent, protocol-governed execution environment.
 
 
 ---
