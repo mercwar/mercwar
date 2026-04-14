@@ -1,16 +1,4 @@
 ![JoeTron](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260414_034541.png)
-
----
-
-# 🧬 True Objectives
-
-### **Strategic Mission — AVIS-2026 Network & Deployment Initiative**
-
-* **NETWORKING FIRE-COM** — Establish a sovereign, deterministic network interface for AVIS-aligned systems.
-* **DEPLOYING FIRE-GEM** — Operationalize FIRE-GEM as a persistent, protocol-governed execution environment.
-
----
-
 # ✨ MERCWAR01 — **AVIS-LAW SHELL DOSSIER**
 
 ### **Senior Systems Architect • Windows API • DC/VB/C**
@@ -22,6 +10,15 @@
 ║     Architect of Deterministic & Sovereign Architectures     ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+
+# 🧬 True Objectives
+
+### **Strategic Mission — AVIS-2026 Network & Deployment Initiative**
+
+* **NETWORKING FIRE-COM** — Establish a sovereign, deterministic network interface for AVIS-aligned systems.
+* **DEPLOYING FIRE-GEM** — Operationalize FIRE-GEM as a persistent, protocol-governed execution environment.
+
 
 ---
 
@@ -156,9 +153,8 @@ Focused on building **high-integrity execution environments** where artifacts ar
 
 ---
 
-# 🌐 **Primary Project**
-
-##  🔥[FIRE-GEM](https://github.com/mercwar/FIRE-GEM)💎
+#####  - 🌐 <i>**Primary Project**</i> 🌐 -
+###### ╚══ 🔥[FIRE-GEM](https://github.com/mercwar/FIRE-GEM)💎 ══╝
 
 ---
 
