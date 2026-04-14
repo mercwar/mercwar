@@ -128,7 +128,7 @@
 
 ###### **Senior Systems Architect — MERCWAR Systems**
 
-*2020–Present*
+*1999–Present*
 
 * Designed and enforced the **AVIS-2026 Protocol**
 * Built the **CVBGOD Interpreter Stack**
