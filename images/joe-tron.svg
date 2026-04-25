@@ -166,16 +166,16 @@
           font-family="Consolas, monospace"
           font-size="14"
           fill="#9cdcff">
-      JOE TRON • MERCWAR • FFF-DEMONIZER
+      JOE TRON • MERCWAR01 • FFF-DEMONIZER
     </text>
 
-    <!-- RK / ROBO KNIGHT UNIVERSE -->
+    <!-- RK / ROBO KNIGHT UNIVERSE --> •
     <text x="400" y="192"
           text-anchor="middle"
           font-family="Consolas, monospace"
           font-size="16"
-          fill="#ffcf7a">
-      RK • ROBO KNIGHT UNIVERSE
+          fill="#ffff00">
+      AVIS-LAW SHELL DOSSIER •  RKU
     </text>
 
     <!-- Bottom reflection hint -->
@@ -183,8 +183,8 @@
           text-anchor="middle"
           font-family="Consolas, monospace"
           font-size="12"
-          fill="#ffffff22">
-      ROBO KNIGHT
+          fill="#ffee00">
+       Senior Systems Architect • Windows API • DC/VB/C  
     </text>
   </g>
 
