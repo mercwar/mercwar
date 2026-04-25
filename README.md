@@ -22,10 +22,7 @@
 
 ---
 
-###### 🔗 **Access**
 
-* 🏰 [https://mercwar01.byethost3.com](https://mercwar01.byethost3.com)
-* 📡 [https://github.com/mercwar](https://github.com/mercwar)
   <div style="padding: 10px 14px; border-radius: 8px; background: radial-gradient(circle at top left, #16161a, #020617); border: 1px solid #27272f;">
     <p style="margin: 0 0 6px 0; color: #e5e7eb; font-weight: 600;">
       <span style="color:#7dd300;">NETWORKING FIRE-COM:</span><br>
