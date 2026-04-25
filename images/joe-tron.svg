@@ -1,3 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800" height="300"
+     viewBox="0 0 800 300">
+
+  <!-- ========== DEFS ========== -->
+  <defs>
+    <!-- Fire/Ice split background -->
+    <linearGradient id="bgSplit" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#04101f"/>
+      <stop offset="45%" stop-color="#0a2745"/>
+      <stop offset="55%" stop-color="#2b1206"/>
+      <stop offset="100%" stop-color="#3b1404"/>
+    </linearGradient>
+
+    <!-- Moving energy band -->
+    <linearGradient id="energyBand" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00eaff00"/>
+      <stop offset="40%" stop-color="#00eaffaa"/>
+      <stop offset="60%" stop-color="#ffffffdd"/>
+      <stop offset="100%" stop-color="#ff7b00aa"/>
+    </linearGradient>
+
+    <!-- Outer glow -->
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="10" result="b"/>
+      <feColorMatrix in="b" type="matrix"
+        values="0 0 0 0 0
+                0 0 0 0 0.7
+                0 0 0 0 1
+                0 0 0 0.9 0"/>
+    </filter>
+
+    <!-- Text glow -->
+    <filter id="textGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feColorMatrix in="b" type="matrix"
+        values="0 0 0 0 0.4
+                0 0 0 0 0.9
+                0 0 0 0 1
+                0 0 0 0.9 0"/>
+    </filter>
+
+    <!-- Circuit stroke pattern -->
+    <pattern id="circuitPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M0 10 H20 V30 H40"
+            fill="none"
+            stroke="#1f3c5a"
+            stroke-width="1"/>
+      <circle cx="20" cy="10" r="2" fill="#00eaff"/>
+      <circle cx="20" cy="30" r="2" fill="#ff7b00"/>
+    </pattern>
+  </defs>
+
+  <!-- ========== BACKGROUND ========== -->
+  <rect x="0" y="0" width="800" height="300" fill="url(#bgSplit)"/>
+
+  <!-- Subtle circuit frame -->
+  <rect x="10" y="10" width="780" height="280"
+        fill="none"
+        stroke="url(#circuitPattern)"
+        stroke-width="2"
+        opacity="0.6"/>
+
+  <!-- Energy band sweep -->
+  <rect x="-400" y="0" width="400" height="300"
+        fill="url(#energyBand)" opacity="0.0">
+    <animate attributeName="x"
+             from="-400" to="800"
+             dur="5s"
+             repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+             values="0;0.8;0"
+             dur="5s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ========== CENTER PLATE ========== -->
+  <g>
+    <!-- Plate glow -->
+    <rect x="80" y="70" width="640" height="160" rx="18" ry="18"
+          fill="#000000"
+          opacity="0.7"
+          filter="url(#softGlow)"/>
+
+    <!-- Main plate -->
+    <rect x="80" y="70" width="640" height="160" rx="18" ry="18"
+          fill="#05070c"
+          stroke="#1f3c5a"
+          stroke-width="2"/>
+
+    <!-- Inner split (ice/fire) -->
+    <linearGradient id="innerSplit" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b355d"/>
+      <stop offset="50%" stop-color="#111111"/>
+      <stop offset="100%" stop-color="#5a2607"/>
+    </linearGradient>
+    <rect x="92" y="82" width="616" height="136" rx="12" ry="12"
+          fill="url(#innerSplit)"
+          stroke="#3b4f6a"
+          stroke-width="1.5"/>
+
+    <!-- Thin top highlight -->
+    <rect x="92" y="82" width="616" height="3"
+          fill="#ffffff33"/>
+
+    <!-- ========== TEXT BLOCKS ========== -->
+
 <!-- CVBGOD TEXT with clarity pulse -->
 <g>
   <!-- Blur filter for clarity effect -->
@@ -51,3 +158,87 @@
              repeatCount="indefinite"/>
   </text>
 </g>
+
+
+    <!-- JOE TRON / MERCWAR -->
+    <text x="400" y="165"
+          text-anchor="middle"
+          font-family="Consolas, monospace"
+          font-size="14"
+          fill="#9cdcff">
+      JOE TRON • MERCWAR • FFF-DEMONIZER
+    </text>
+
+    <!-- RK / ROBO KNIGHT UNIVERSE -->
+    <text x="400" y="192"
+          text-anchor="middle"
+          font-family="Consolas, monospace"
+          font-size="16"
+          fill="#ffcf7a">
+      RK • ROBO KNIGHT UNIVERSE
+    </text>
+
+    <!-- Bottom reflection hint -->
+    <text x="400" y="214"
+          text-anchor="middle"
+          font-family="Consolas, monospace"
+          font-size="12"
+          fill="#ffffff22">
+      ROBO KNIGHT
+    </text>
+  </g>
+
+  <!-- ========== ORBITING ATOMS (RKU MENU FEEL) ========== -->
+  <!-- Left atom orbit -->
+  <g>
+    <circle cx="190" cy="150" r="34"
+            fill="none"
+            stroke="#00eaff"
+            stroke-width="1.5"
+            stroke-dasharray="4 6"
+            opacity="0.8">
+      <animate attributeName="stroke-dashoffset"
+               from="0" to="40"
+               dur="6s"
+               repeatCount="indefinite"/>
+    </circle>
+    <circle cx="190" cy="150" r="4" fill="#00eaff">
+      <animate attributeName="cy"
+               values="140;160;140"
+               dur="3s"
+               repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Right atom orbit -->
+  <g>
+    <circle cx="610" cy="150" r="34"
+            fill="none"
+            stroke="#ff7b00"
+            stroke-width="1.5"
+            stroke-dasharray="4 6"
+            opacity="0.8">
+      <animate attributeName="stroke-dashoffset"
+               from="40" to="0"
+               dur="6s"
+               repeatCount="indefinite"/>
+    </circle>
+    <circle cx="610" cy="150" r="4" fill="#ff7b00">
+      <animate attributeName="cy"
+               values="160;140;160"
+               dur="3s"
+               repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ========== SUBTLE GLOBAL PULSE ========== -->
+  <g opacity="0.0">
+    <rect x="0" y="0" width="800" height="300" fill="#ffffff">
+      <animate attributeName="opacity"
+               values="0;0.25;0"
+               dur="4s"
+               repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+</svg>
