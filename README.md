@@ -5,7 +5,7 @@
 ###### 🌠 **Senior Systems Architect • Windows API • DC/VB/C**
 
 
-![JoeTron](https://mercwar.github.io/mercwar/images/joe-tron.png)
+![JoeTron](https://mercwar.github.io/mercwar/images/joe-tron.svg)
 
 
 
