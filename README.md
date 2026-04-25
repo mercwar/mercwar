@@ -1,7 +1,7 @@
 
-![JoeTron](https://mercwar.github.io/mercwar/images/joe-tron.png)
+![JoeTron](images/joe-tron.png)
 
-![JoeTron](https://mercwar.github.io/mercwar/images/joe-tron.svg)
+![JoeTron](images/joe-tron.svg)
 
 
 
