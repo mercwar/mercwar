@@ -71,7 +71,7 @@
   <image id="bgImage"
          x="0" y="0"
          width="580" height="380"
-         href="https://github.com/mercwar/mercwar/blob/main/images/joe-tron.png"
+         href="https://raw.githubusercontent.com/mercwar/mercwar/main/images/joe-tron.png"
          opacity="0"/>
 
   <!-- FAKE DESKTOP LAYER (ALL INSIDE 580×380) -->
