@@ -1,4 +1,4 @@
-<h2 align="center">JOE TRON — CVBGOD</h2>
+
 
 <p align="center">
   <img src="images/joe-tron.png" width="600">
