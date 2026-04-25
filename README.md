@@ -1,4 +1,4 @@
-![JoeTron](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260414_034541.png)
+![JoeTron](joe-tron.svg)
 #### ✨ MERCWAR01 ✨ **AVIS-LAW SHELL DOSSIER**
 
 ###### 🌠 **Senior Systems Architect • Windows API • DC/VB/C**
