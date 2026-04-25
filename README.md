@@ -1,15 +1,12 @@
-![JoeTron](https://mercwar.github.io/mercwar/images/joe-tron.svg)
+![JoeTron](https://mercwar.github.io/mercwar/images/joe-tron.png)
+
 #### ✨ MERCWAR01 ✨ **AVIS-LAW SHELL DOSSIER**
 
 ###### 🌠 **Senior Systems Architect • Windows API • DC/VB/C**
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                     MERCWAR01 — CVBGOD                       ║
-║     AVIS-2026 Lawgiver • Windows API • DC/VB/C Systems       ║
-║     Architect of Deterministic & Sovereign Architectures     ║
-╚══════════════════════════════════════════════════════════════╝
-```
+
+![JoeTron](https://mercwar.github.io/mercwar/images/joe-tron.png)
+
 
 
 ##### 🧬 True Objectives
