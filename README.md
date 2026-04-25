@@ -1,26 +1,59 @@
+<h2 align="center">JOE TRON — CVBGOD</h2>
 
-![JoeTron](images/joe-tron.png)
+<p align="center">
+  <img src="images/joe-tron.png" width="600">
+</p>
 
-![JoeTron](images/joe-tron.svg)
+<p align="center">
+  <img src="images/joe-tron.svg" width="600">
+</p>
 
+<!-- True Objectives -->
+<div style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
 
+  <h5 style="margin: 0 0 4px 0; color: #7f5af0; letter-spacing: 0.08em; text-transform: uppercase;">
+    🧬 True Objectives
+  </h5>
 
-##### 🧬 True Objectives
+  <h6 style="margin: 0 0 12px 0; color: #2cb67d; font-weight: 700;">
+    Strategic Mission · AVIS‑2026 Network &amp; Deployment Initiative
+  </h6>
 
-###### **Strategic Mission AVIS-2026 Network & Deployment Initiative**
+  <div style="padding: 10px 14px; border-radius: 8px; background: radial-gradient(circle at top left, #16161a, #020617); border: 1px solid #27272f;">
+    <p style="margin: 0 0 6px 0; color: #e5e7eb; font-weight: 600;">
+      <span style="color:#7dd3fc;">NETWORKING FIRE‑COM:</span>
+      <span style="color:#9ca3af;"> Establish a sovereign, deterministic network interface for AVIS‑aligned systems.</span>
+    </p>
+    <p style="margin: 0; color: #e5e7eb; font-weight: 600;">
+      <span style="color:#f97316;">DEPLOYING FIRE‑GEM:</span>
+      <span style="color:#9ca3af;"> Operationalize FIRE‑GEM as a persistent, protocol‑governed execution environment.</span>
+    </p>
+  </div>
 
-* **NETWORKING FIRE-COM:**
-* - Establish a sovereign, deterministic network interface for AVIS-aligned systems.
-* **DEPLOYING FIRE-GEM:**
-* - Operationalize FIRE-GEM as a persistent, protocol-governed execution environment.
+  <hr style="margin: 16px 0; border: 0; border-top: 1px solid #27272f;">
 
+  <h6 style="margin: 0 0 8px 0; color: #7f5af0; font-weight: 700;">
+    🔗 Access
+  </h6>
 
----
+  <ul style="list-style: none; padding-left: 0; margin: 0;">
+    <li style="margin-bottom: 4px;">
+      🏰
+      <a href="https://mercwar01.byethost3.com"
+         style="color:#38bdf8; text-decoration:none;">
+        https://mercwar01.byethost3.com
+      </a>
+    </li>
+    <li>
+      📡
+      <a href="https://github.com/mercwar"
+         style="color:#22c55e; text-decoration:none;">
+        https://github.com/mercwar
+      </a>
+    </li>
+  </ul>
 
-###### 🔗 **Access**
-
-* 🏰 [https://mercwar01.byethost3.com](https://mercwar01.byethost3.com)
-* 📡 [https://github.com/mercwar](https://github.com/mercwar)
+</div>
 
 ---
 
