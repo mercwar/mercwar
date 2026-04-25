@@ -19,14 +19,21 @@
     Strategic Mission · AVIS‑2026 Network &amp; Deployment Initiative
   </h6>
 
+
+---
+
+###### 🔗 **Access**
+
+* 🏰 [https://mercwar01.byethost3.com](https://mercwar01.byethost3.com)
+* 📡 [https://github.com/mercwar](https://github.com/mercwar)
   <div style="padding: 10px 14px; border-radius: 8px; background: radial-gradient(circle at top left, #16161a, #020617); border: 1px solid #27272f;">
     <p style="margin: 0 0 6px 0; color: #e5e7eb; font-weight: 600;">
-      <span style="color:#7dd3fc;">NETWORKING FIRE‑COM:</span>
-      <span style="color:#9ca3af;"> Establish a sovereign, deterministic network interface for AVIS‑aligned systems.</span>
+      <span style="color:#7dd300;">NETWORKING FIRE-COM:</span><br>
+      <span style="color:#3333ff;"> - Establish a sovereign, deterministic network interface for AVIS-aligned systems.</span>
     </p>
     <p style="margin: 0; color: #e5e7eb; font-weight: 600;">
-      <span style="color:#f97316;">DEPLOYING FIRE‑GEM:</span>
-      <span style="color:#9ca3af;"> Operationalize FIRE‑GEM as a persistent, protocol‑governed execution environment.</span>
+      <span style="color:#f97300;">DEPLOYING FIRE-GEM:</span><br>
+      <span style="color:#3333ff;">- Operationalize FIRE-GEM as a persistent, protocol-governed execution environment.</span>
     </p>
   </div>
 
