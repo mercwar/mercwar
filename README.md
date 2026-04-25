@@ -1,4 +1,4 @@
-#### ✨ MERCWAR01 ✨ **AVIS-LAW SHELL DOSSIER**
+
 ![JoeTron](https://mercwar.github.io/mercwar/images/joe-tron.png)
 
 ![JoeTron](https://mercwar.github.io/mercwar/images/joe-tron.svg)
