@@ -1,4 +1,4 @@
-![JoeTron](joe-tron.svg)
+![JoeTron](images/joe-tron.svg)
 #### ✨ MERCWAR01 ✨ **AVIS-LAW SHELL DOSSIER**
 
 ###### 🌠 **Senior Systems Architect • Windows API • DC/VB/C**
