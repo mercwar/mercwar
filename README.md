@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="images/joe-tron.svg" width="600">
-</p>
 
 <p align="center">
   <img src="images/joe-tron.png" width="600">
@@ -10,6 +7,9 @@
 
 <p align="center">
   <img src="images/trons-win.svg" width="600">
+</p>
+<p align="center">
+  <img src="images/joe-tron.svg" width="600">
 </p>
 
 <!-- True Objectives -->
