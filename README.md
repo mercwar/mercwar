@@ -43,6 +43,8 @@
 
 <hr style="margin: 16px 0; border: 0; border-top: 1px solid #27272f;">
 <!-- True Objectives -->
+<div style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">🌈 True Objectives</div>
+<br>
 <div style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
   
   <!-- Section 1 -->
@@ -71,12 +73,9 @@
 ---
 <div align="center">
         <pre style="line-height: 1.2; background: none; border: none; color: #00f2ff; font-family: monospace; margin: 0;">
-╔════════════════════════╗
-║     PRIMARY PROJECT    ║
-╚════════════════════════╝
-╔══════🔥 <a href="https://github.com/mercwar/FIRE-GEM" style="text-decoration: none;"><font color="#00f2ff">FIRE-GEM</font></a> 💎══════╗
-║            🌈            ║
-╚═══🔥 True Objectives 💎══╝</pre>
+╔═══ PRIMARY 💾 PROJECT═══╗
+║            🧬           ║
+╚═════ 🔥 <a href="https://github.com/mercwar/FIRE-GEM" style="text-decoration: none;"><font color="#00f2ff">FIRE-GEM</font></a> 💎 ════╝</pre>
 
 </div>
 
