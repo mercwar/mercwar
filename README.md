@@ -8,6 +8,10 @@
   <img src="images/joe-tron.svg" width="600">
 </p>
 
+<p align="center">
+  <img src="images/tron-win.svg" width="600">
+</p>
+
 <!-- True Objectives -->
 <div style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
 
