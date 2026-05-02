@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="images/tron-win.svg" width="600">
+  <img src="images/trons-win.svg" width="600">
 </p>
 
 <!-- True Objectives -->
