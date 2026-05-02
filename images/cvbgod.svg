@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800"
+     height="300"
+     viewBox="0 0 800 300">
+
+  <defs>
+    <!-- Background split -->
+    <linearGradient id="bgSplit" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#04101f"/>
+      <stop offset="45%" stop-color="#0a2745"/>
+      <stop offset="55%" stop-color="#2b1206"/>
+      <stop offset="100%" stop-color="#3b1404"/>
+    </linearGradient>
+
+    <!-- Energy ribbon -->
+    <linearGradient id="energyBand" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00eaff00"/>
+      <stop offset="35%" stop-color="#00eaffaa"/>
+      <stop offset="50%" stop-color="#ffffffee"/>
+      <stop offset="65%" stop-color="#ff7b00aa"/>
+      <stop offset="100%" stop-color="#ff7b0000"/>
+    </linearGradient>
+
+    <!-- Soft glow -->
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+
+    <!-- Text glow -->
+    <filter id="textGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="800" height="300" fill="url(#bgSplit)"/>
+
+  <!-- ambient glows -->
+  <ellipse cx="170" cy="150" rx="240" ry="130"
+           fill="#00cfff"
+           opacity="0.18"
+           filter="url(#softGlow)"/>
+
+  <ellipse cx="630" cy="150" rx="240" ry="130"
+           fill="#ff6600"
+           opacity="0.18"
+           filter="url(#softGlow)"/>
+
+  <!-- center energy seam -->
+  <rect x="220"
+        y="138"
+        width="360"
+        height="24"
+        rx="12"
+        fill="url(#energyBand)"
+        filter="url(#softGlow)"
+        opacity="0.9"/>
+
+  <!-- framing lines -->
+  <rect x="16"
+        y="16"
+        width="768"
+        height="268"
+        rx="12"
+        fill="none"
+        stroke="#8be9ff"
+        stroke-opacity="0.25"
+        stroke-width="1"/>
+
+  <rect x="24"
+        y="24"
+        width="752"
+        height="252"
+        rx="10"
+        fill="none"
+        stroke="#ffffff"
+        stroke-opacity="0.06"
+        stroke-width="1"/>
+
+  <!-- left label -->
+  <text x="60"
+        y="95"
+        font-family="Consolas, monospace"
+        font-size="20"
+        fill="#9fefff"
+        filter="url(#textGlow)">
+    ICE CORE
+  </text>
+
+  <!-- center title -->
+  <text x="400"
+        y="158"
+        text-anchor="middle"
+        font-family="Consolas, monospace"
+        font-size="48"
+        font-weight="700"
+        fill="#ffffff"
+        filter="url(#textGlow)">
+    MERCWAR
+  </text>
+
+  <!-- subtitle -->
+  <text x="400"
+        y="188"
+        text-anchor="middle"
+        font-family="Consolas, monospace"
+        font-size="14"
+        fill="#bfefff"
+        opacity="0.85">
+    FIRE • ICE • STEEL • COSMOS
+  </text>
+
+  <!-- right label -->
+  <text x="740"
+        y="95"
+        text-anchor="end"
+        font-family="Consolas, monospace"
+        font-size="20"
+        fill="#ffbf8a"
+        filter="url(#textGlow)">
+    FIRE CORE
+  </text>
+
+  <!-- lower tech bars -->
+  <rect x="70" y="240" width="170" height="4" rx="2"
+        fill="#00dfff" opacity="0.65"/>
+
+  <rect x="560" y="240" width="170" height="4" rx="2"
+        fill="#ff7b00" opacity="0.65"/>
+
+  <!-- footer -->
+  <text x="400"
+        y="270"
+        text-anchor="middle"
+        font-family="Consolas, monospace"
+        font-size="10"
+        fill="#d0d0d0"
+        opacity="0.55">
+    AVIS / RKU / DX SYSTEM
+  </text>
+
+</svg>
