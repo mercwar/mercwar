@@ -134,13 +134,6 @@
 
     <g font-family="monospace" font-size="10">
         <line x1="385" y1="515" x2="1045" y2="515" stroke="#00f2ff" stroke-width="1" stroke-opacity="0.4"/>
-        <circle cx="410" y="515" r="4" fill="#00ff99"/>
-        <circle cx="540" y="515" r="4" fill="#00f2ff"/>
-        <circle cx="670" y="515" r="4" fill="#ffdd55"/>
-        <circle cx="800" y="515" r="4" fill="#ffdd55"/>
-        <circle cx="930" y="515" r="4" fill="#00ff99"/>
-        <circle cx="1040" y="515" r="4" fill="#00f2ff"/>
-
         <text x="395" y="535" fill="#e8e8e8">1999 :: Senior Systems Architect - MERCWAR</text>
         <text x="395" y="555" fill="#e8e8e8">2020 :: Matrix Drive Memory Engine Optimization</text>
         <text x="395" y="575" fill="#e8e8e8">2024 :: Robo-Knight Universe - Combat Opcodes</text>
