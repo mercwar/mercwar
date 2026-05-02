@@ -1,144 +1,197 @@
-<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
-    <!-- Deep Space Nexus Core -->
-    <rect width="1200" height="800" fill="#000000"/>
+<svg width="1000" height="600" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
 
     <!-- Cybernetic Ambient Glow -->
-    <rect x="100" y="100" width="1000" height="600" rx="20"
+    <rect x="0" y="0" width="1000" height="600" rx="20"
           fill="none" stroke="#00f2ff" stroke-width="15" stroke-opacity="0.05"/>
 
     <!-- Primary Holographic Command Window -->
-    <rect x="110" y="110" width="980" height="580" rx="15"
+    <rect x="10" y="10" width="980" height="580" rx="15"
           fill="#05060a" fill-opacity="0.85" stroke="#00f2ff" stroke-width="2"/>
 
     <!-- Square Resize Corners -->
     <g fill="#00f2ff">
-        <rect x="110" y="110" width="10" height="10"/>
-        <rect x="1080" y="110" width="10" height="10"/>
-        <rect x="110" y="680" width="10" height="10"/>
-        <rect x="1080" y="680" width="10" height="10"/>
+        <rect x="10" y="10" width="10" height="10"/>
+        <rect x="990" y="10" width="10" height="10"/>
+        <rect x="10" y="580" width="10" height="10"/>
+        <rect x="990" y="580" width="10" height="10"/>
     </g>
 
     <!-- Tactical Navigation Grid -->
     <g stroke="#00f2ff" stroke-width="0.5" stroke-opacity="0.15">
-        <line x1="120" y1="110" x2="120" y2="690"/>
-        <line x1="240" y1="110" x2="240" y2="690"/>
-        <line x1="360" y1="110" x2="360" y2="690"/>
-        <line x1="480" y1="110" x2="480" y2="690"/>
-        <line x1="600" y1="110" x2="600" y2="690"/>
-        <line x1="720" y1="110" x2="720" y2="690"/>
-        <line x1="840" y1="110" x2="840" y2="690"/>
-        <line x1="960" y1="110" x2="960" y2="690"/>
+        <line x1="20" y1="10" x2="20" y2="590"/>
+        <line x1="140" y1="10" x2="140" y2="590"/>
+        <line x1="260" y1="10" x2="260" y2="590"/>
+        <line x1="380" y1="10" x2="380" y2="590"/>
+        <line x1="500" y1="10" x2="500" y2="590"/>
+        <line x1="620" y1="10" x2="620" y2="590"/>
+        <line x1="740" y1="10" x2="740" y2="590"/>
+        <line x1="860" y1="10" x2="860" y2="590"/>
 
-        <line x1="110" y1="120" x2="1090" y2="120"/>
-        <line x1="110" y1="240" x2="1090" y2="240"/>
-        <line x1="110" y1="360" x2="1090" y2="360"/>
-        <line x1="110" y1="480" x2="1090" y2="480"/>
-        <line x1="110" y1="600" x2="1090" y2="600"/>
+        <line x1="10" y1="20" x2="990" y2="20"/>
+        <line x1="10" y1="140" x2="990" y2="140"/>
+        <line x1="10" y1="260" x2="990" y2="260"/>
+        <line x1="10" y1="380" x2="990" y2="380"/>
+        <line x1="10" y1="500" x2="990" y2="500"/>
     </g>
 
     <!-- Heavy Mechanical Corner Reinforcements -->
     <g fill="none" stroke="#00f2ff" stroke-width="6">
-        <path d="M 110 220 L 110 110 L 220 110"/>
-        <path d="M 980 110 L 1090 110 L 1090 220"/>
-        <path d="M 1090 580 L 1090 690 L 980 690"/>
-        <path d="M 220 690 L 110 690 L 110 580"/>
+        <path d="M 10 120 L 10 10 L 120 10"/>
+        <path d="M 880 10 L 990 10 L 990 120"/>
+        <path d="M 990 480 L 990 590 L 880 590"/>
+        <path d="M 120 590 L 10 590 L 10 480"/>
     </g>
 
-    <!-- Header Section -->
+    <!-- AVIS System Readouts -->
     <g font-family="monospace" font-weight="bold">
-        <rect x="130" y="130" width="210" height="16" fill="#00f2ff" fill-opacity="0.5"/>
-        <text x="135" y="142" font-size="10" fill="#000000">CVBGOD::JOSEPH_M_CATALANO</text>
-        <text x="760" y="145" font-size="14" fill="#00f2ff">ARCHITECT: [SENIOR]</text>
-        <text x="760" y="165" font-size="11" fill="#00f2ff" fill-opacity="0.7">DOMAIN: AVIS-2026 LAWGIVER</text>
+        <rect x="30" y="30" width="210" height="16" fill="#00f2ff" fill-opacity="0.5"/>
+        <text x="35" y="42" font-size="10" fill="#000000">DISCOVERY_STREAM_V1.1</text>
+
+        <text x="660" y="45" font-size="14" fill="#00f2ff">SYSTEM: [ACTIVE]</text>
+        <text x="660" y="65" font-size="11" fill="#00f2ff" fill-opacity="0.7">AVIS_COORD: 1.1.CVBGOD</text>
     </g>
 
     <!-- High-Frequency Scanline Texture -->
     <g stroke="#00f2ff" stroke-width="0.5" stroke-opacity="0.08">
-        <line x1="110" y1="115" x2="1090" y2="115"/>
-        <line x1="110" y1="125" x2="1090" y2="125"/>
-        <line x1="110" y1="135" x2="1090" y2="135"/>
-        <line x1="110" y1="675" x2="1090" y2="675"/>
+        <line x1="10" y1="15" x2="990" y2="15"/>
+        <line x1="10" y1="25" x2="990" y2="25"/>
+        <line x1="10" y1="35" x2="990" y2="35"/>
+        <line x1="10" y1="575" x2="990" y2="575"/>
     </g>
 
     <!-- LEFT NAV PANEL -->
-    <rect x="130" y="190" width="220" height="460" rx="10"
+    <rect x="30" y="90" width="220" height="460" rx="10"
           fill="#05060f" fill-opacity="0.95"
           stroke="#00f2ff" stroke-width="1" stroke-opacity="0.6"/>
 
+    <!-- LEFT NAV CONTENT -->
     <g font-family="monospace" font-weight="bold">
-        <text x="145" y="215" font-size="12" fill="#00f2ff">SYSTEM_STACK</text>
-        <text x="145" y="245" font-size="11" fill="#f5f5f5">▸ pure.c.discipline</text>
-        <text x="145" y="265" font-size="11" fill="#f5f5f5" fill-opacity="0.7">▹ x86_64.assembly</text>
-        <text x="145" y="285" font-size="11" fill="#f5f5f5" fill-opacity="0.7">▹ intel.tso.memory</text>
-        <text x="145" y="305" font-size="11" fill="#f5f5f5" fill-opacity="0.7">▹ deterministic.arch</text>
-        <text x="145" y="335" font-size="11" fill="#00f2ff">▸ core.projects</text>
-        <text x="160" y="355" font-size="10" fill="#f5f5f5">- avis_2026.forge</text>
-        <text x="160" y="372" font-size="10" fill="#f5f5f5">- matrix.drive</text>
-        <text x="160" y="389" font-size="10" fill="#f5f5f5">- fire_works.v8</text>
-        <text x="145" y="420" font-size="11" fill="#00f2ff">▸ rku.combat.ops</text>
-        <text x="160" y="440" font-size="10" fill="#f5f5f5">- threat.eval</text>
-        <text x="160" y="457" font-size="10" fill="#f5f5f5">- tactical.move</text>
-        <text x="160" y="474" font-size="10" fill="#f5f5f5">- intent.opcodes</text>
+        <text x="45" y="115" font-size="12" fill="#00f2ff">RKU.DX_MODULES</text>
+
+        <text x="45" y="145" font-size="11" fill="#f5f5f5">▸ loader.avs.core</text>
+        <text x="45" y="165" font-size="11" fill="#f5f5f5" fill-opacity="0.7">▹ loader.avs.fsindex</text>
+        <text x="45" y="185" font-size="11" fill="#f5f5f5" fill-opacity="0.7">▹ loader.avs.dotproto</text>
+        <text x="45" y="205" font-size="11" fill="#f5f5f5" fill-opacity="0.7">▹ loader.avs.chain</text>
+
+        <text x="45" y="235" font-size="11" fill="#00f2ff">▸ dx.pipeline</text>
+        <text x="60" y="255" font-size="10" fill="#f5f5f5">- compile.rku</text>
+        <text x="60" y="272" font-size="10" fill="#f5f5f5">- test.rku</text>
+        <text x="60" y="289" font-size="10" fill="#f5f5f5">- ship.rku</text>
+
+        <text x="45" y="320" font-size="11" fill="#00f2ff">▸ observability</text>
+        <text x="60" y="340" font-size="10" fill="#f5f5f5">- traces</text>
+        <text x="60" y="357" font-size="10" fill="#f5f5f5">- metrics</text>
+        <text x="60" y="374" font-size="10" fill="#f5f5f5">- logs</text>
+
+        <text x="45" y="405" font-size="11" fill="#00f2ff">▸ avis.law</text>
+        <text x="60" y="425" font-size="10" fill="#f5f5f5">- dot.protocol</text>
+        <text x="60" y="442" font-size="10" fill="#f5f5f5">- chain.of.resp</text>
+        <text x="60" y="459" font-size="10" fill="#f5f5f5">- block.routing</text>
+
+        <text x="45" y="490" font-size="11" fill="#00f2ff">▸ profiles</text>
+        <text x="60" y="510" font-size="10" fill="#f5f5f5">- rku.local</text>
+        <text x="60" y="527" font-size="10" fill="#f5f5f5">- ci.github</text>
+        <text x="60" y="544" font-size="10" fill="#f5f5f5">- prod.cluster</text>
     </g>
 
     <!-- MAIN CONSOLE PANEL -->
-    <rect x="370" y="190" width="460" height="260" rx="10"
+    <rect x="270" y="90" width="460" height="260" rx="10"
           fill="#05060c" fill-opacity="0.98"
           stroke="#00f2ff" stroke-width="1" stroke-opacity="0.6"/>
 
+    <!-- MAIN CONSOLE HEADER -->
     <g font-family="monospace" font-weight="bold">
-        <text x="385" y="210" font-size="12" fill="#00f2ff">CONSOLE :: ARCHITECTURAL_DETERMINISM</text>
-        <text x="385" y="226" font-size="10" fill="#00f2ff" fill-opacity="0.7">role: senior systems architect | since: 1999</text>
+        <text x="285" y="110" font-size="12" fill="#00f2ff">DX.CONSOLE :: RKU_CHAIN_OF_RESP</text>
+        <text x="285" y="126" font-size="10" fill="#00f2ff" fill-opacity="0.7">shell: msys2/ucrt64 | mode: strict</text>
     </g>
 
+    <!-- MAIN CONSOLE CONTENT -->
     <g font-family="monospace" font-size="10" fill="#e8e8e8">
-        <text x="385" y="246">$ status --user=Joseph_M_Catalano</text>
-        <text x="385" y="262" fill="#00ff99">[OK] MERCWAR Systems: 25+ Years Experience</text>
-        <text x="385" y="276" fill="#00ff99">[OK] Language: C89/C99/Assembly (Strict Mode)</text>
-        <text x="385" y="290" fill="#00ff99">[OK] Protocol: AVIS-2026 Lawgiver</text>
-        <text x="385" y="304" fill="#ffdd55">[LOG] Build: Automated AVIS-2026 Forge Constructor</text>
-        <text x="385" y="318" fill="#ffdd55">[LOG] Memory: Matrix Drive Linear Scanner</text>
-        <text x="385" y="332" fill="#ffdd55">[INFO] Discipline: No Frameworks. No Abstractions.</text>
-        <text x="385" y="346" fill="#ffdd55">[INFO] Architecture: Sovereign/Deterministic</text>
-        <text x="385" y="360" fill="#00ff99">[OK] Intelligence: Data Transport to GitHub Repos</text>
+        <text x="285" y="146">$ avis-rku dx run --profile=ci.github --pipeline=chain</text>
+        <text x="285" y="162" fill="#00ff99">[OK] bootstrap: msys2/ucrt64 detected</text>
+        <text x="285" y="176" fill="#00ff99">[OK] loader: pure chain-of-responsibility mode</text>
+        <text x="285" y="190" fill="#00ff99">[OK] dot-protocol: AVIS2026 law enforced</text>
+        <text x="285" y="204" fill="#ffdd55">[DX] routing: SPEC blocks discovered: 12</text>
+        <text x="285" y="218" fill="#ffdd55">[DX] registry: CLASS/REG bindings validated</text>
+        <text x="285" y="232" fill="#ffdd55">[WARN] fsindex: 2 legacy paths mapped via shim</text>
+        <text x="285" y="246" fill="#ffdd55">[WARN] dotproto: 1 token stream normalized</text>
+        <text x="285" y="260" fill="#00ff99">[OK] build: 142 modules compiled (0 failed)</text>
+        <text x="285" y="274" fill="#00ff99">[OK] tests: 389 specs, 389 passed, 0 skipped</text>
+    </g>
+
+    <!-- SPEC SNIPPET -->
+    <g font-family="monospace" font-size="10" fill="#9ad9ff">
+        <text x="300" y="304">BEGIN.SPEC.CHAIN loader.avs.core</text>
+        <text x="315" y="318">&gt; token.level: ROOT</text>
+        <text x="315" y="332">&gt; dispatch: chain.of.responsibility</text>
+        <text x="300" y="344">END.SPEC.CHAIN</text>
+        <text x="285" y="386" fill="#e8e8e8">$ avis-rku dx ship --target=prod.cluster --law=AVIS2026</text>
+        <text x="285" y="400" fill="#00ff99">[OK] release: CVBGOD-2026.05.02-01 promoted</text>
     </g>
 
     <!-- RIGHT METRICS PANEL -->
-    <rect x="850" y="190" width="220" height="260" rx="10"
+    <rect x="750" y="90" width="220" height="260" rx="10"
           fill="#05060f" fill-opacity="0.97"
           stroke="#00f2ff" stroke-width="1" stroke-opacity="0.6"/>
 
+    <!-- RIGHT METRICS HEADER -->
     <g font-family="monospace" font-weight="bold">
-        <text x="865" y="210" font-size="12" fill="#00f2ff">CORE.METRICS</text>
+        <text x="765" y="110" font-size="12" fill="#00f2ff">RKU.METRICS :: LIVE</text>
     </g>
 
+    <!-- METRIC BLOCKS -->
     <g font-family="monospace" font-size="10">
-        <rect x="865" y="225" width="190" height="60" rx="8" fill="#05060c" stroke="#00f2ff" stroke-width="1"/>
-        <text x="872" y="240" fill="#ffdd55">TENURE</text>
-        <text x="872" y="256" fill="#e8e8e8">MERCWAR: 1999-PRESENT</text>
-        <text x="872" y="270" fill="#9ad9ff">EXP: 27 YEARS</text>
+        <rect x="765" y="125" width="90" height="60" rx="8"
+              fill="#05060c" stroke="#00f2ff" stroke-width="1"/>
+        <text x="772" y="140" fill="#ffdd55">BUILD.TIME</text>
+        <text x="772" y="156" fill="#e8e8e8">avg: 18.4s</text>
+        <text x="772" y="170" fill="#9ad9ff">p95: 24.1s</text>
 
-        <rect x="865" y="295" width="190" height="60" rx="8" fill="#05060c" stroke="#00f2ff" stroke-width="1"/>
-        <text x="872" y="310" fill="#ffdd55">SYSTEMS</text>
-        <text x="872" y="326" fill="#00ff99">CODE PURITY: 100%</text>
-        <text x="872" y="340" fill="#9ad9ff">DETERMINISM: FULL</text>
+        <rect x="865" y="125" width="90" height="60" rx="8"
+              fill="#05060c" stroke="#00f2ff" stroke-width="1"/>
+        <text x="872" y="140" fill="#ffdd55">TEST.COVER</text>
+        <text x="872" y="156" fill="#e8e8e8">line: 97.3%</text>
+        <text x="872" y="170" fill="#9ad9ff">branch: 93.8%</text>
+
+        <rect x="765" y="195" width="90" height="60" rx="8"
+              fill="#05060c" stroke="#00f2ff" stroke-width="1"/>
+        <text x="772" y="210" fill="#ffdd55">PIPELINE</text>
+        <text x="772" y="226" fill="#00ff99">green (12/12)</text>
+        <text x="772" y="240" fill="#9ad9ff">last fail: 0d</text>
+
+        <rect x="865" y="195" width="90" height="60" rx="8"
+              fill="#05060c" stroke="#00f2ff" stroke-width="1"/>
+        <text x="872" y="210" fill="#ffdd55">LATENCY</text>
+        <text x="872" y="226" fill="#e8e8e8">p50: 11ms</text>
+        <text x="872" y="240" fill="#9ad9ff">p99: 61ms</text>
+
+        <rect x="765" y="265" width="190" height="70" rx="8"
+              fill="#05060c" stroke="#00f2ff" stroke-width="1"/>
+        <text x="772" y="280" fill="#ffdd55">LAW.ENFORCEMENT</text>
+        <text x="772" y="296" fill="#e8e8e8">AVIS2026.dot-protocol: STRICT</text>
+        <text x="772" y="310" fill="#e8e8e8">chain.of.responsibility: PURE</text>
+        <text x="772" y="324" fill="#e8e8e8">fsindex: INDEX-ONLY</text>
     </g>
 
     <!-- BOTTOM TIMELINE PANEL -->
-    <rect x="370" y="470" width="700" height="200" rx="10"
+    <rect x="270" y="370" width="700" height="200" rx="10"
           fill="#05060c" stroke="#00f2ff" stroke-width="1"/>
 
+    <!-- TIMELINE HEADER -->
     <g font-family="monospace" font-weight="bold">
-        <text x="385" y="492" font-size="12" fill="#ffdd55">CAREER_TIMELINE :: MILESTONES</text>
+        <text x="285" y="392" font-size="12" fill="#ffdd55">RKU.DX_TIMELINE :: LAST 6 EVENTS</text>
     </g>
 
+    <!-- TIMELINE EVENTS -->
     <g font-family="monospace" font-size="10">
-        <line x1="385" y1="515" x2="1045" y2="515" stroke="#00f2ff" stroke-width="1" stroke-opacity="0.4"/>
-        <text x="395" y="535" fill="#e8e8e8">1999 :: Senior Systems Architect - MERCWAR</text>
-        <text x="395" y="555" fill="#e8e8e8">2020 :: Matrix Drive Memory Engine Optimization</text>
-        <text x="395" y="575" fill="#e8e8e8">2024 :: Robo-Knight Universe - Combat Opcodes</text>
-        <text x="395" y="595" fill="#ffdd55">2026 :: AVIS-2026 Protocol Definition</text>
-        <text x="395" y="615" fill="#00ff99">2026 :: Automated Forge Binary Constructor</text>
-        <text x="395" y="635" fill="#00f2ff">PRESENT :: Fire-Works Browser Engine</text>
+        <line x1="285" y1="415" x2="945" y2="415" stroke="#00f2ff" stroke-width="1" stroke-opacity="0.4"/>
+
+        <text x="295" y="435" fill="#e8e8e8">T-25m :: build.rku :: SUCCESS</text>
+        <text x="295" y="455" fill="#e8e8e8">T-18m :: test.rku :: SUCCESS</text>
+        <text x="295" y="475" fill="#e8e8e8">T-12m :: ship.rku :: SUCCESS</text>
+        <text x="295" y="495" fill="#ffdd55">T-09m :: law.check :: 2 WARN (shimmed)</text>
+        <text x="295" y="515" fill="#00ff99">T-04m :: observability.sync :: OK</text>
+        <text x="295" y="535" fill="#00f2ff">T-01m :: dx.snapshot :: CAPTURED</text>
     </g>
+
 </svg>
