@@ -73,7 +73,7 @@
 ---
 <div align="center">
         <pre style="line-height: 1.2; background: none; border: none; color: #00f2ff; font-family: monospace; margin: 0;">
-╔═══ PRIMARY 💾 PROJECT═══╗
+╔═══ PRIMARY 💾 PROJECT ══╗
 ║            🧬           ║
 ╚═════ 🔥 <a href="https://github.com/mercwar/FIRE-GEM" style="text-decoration: none;"><font color="#00f2ff">FIRE-GEM</font></a> 💎 ════╝</pre>
 
