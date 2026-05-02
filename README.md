@@ -1,51 +1,30 @@
-
 <p align="center">
   <img src="images/joe-tron.png" width="600">
 </p>
 
-
-
 <p align="center">
   <img src="images/trons-win.svg" width="600">
 </p>
+
+
 <p align="center">
   <img src="images/joe-tron.svg" width="600">
 </p>
-
-<!-- True Objectives -->
-<div style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
-
-  <h5 style="margin: 0 0 4px 0; color: #7f5af0; letter-spacing: 0.08em; text-transform: uppercase;">
-    🧬 True Objectives
-  </h5>
-
-  <h6 style="margin: 0 0 12px 0; color: #2cb67d; font-weight: 700;">
-    Strategic Mission · AVIS‑2026 Network &amp; Deployment Initiative
-  </h6>
-
-
----
-
-
-  <div style="padding: 10px 14px; border-radius: 8px; background: radial-gradient(circle at top left, #16161a, #020617); border: 1px solid #27272f;">
-    <p style="margin: 0 0 6px 0; color: #e5e7eb; font-weight: 600;">
-      <span style="color:#7dd300;">NETWORKING FIRE-COM:</span><br>
-      <span style="color:#3333ff;"> - Establish a sovereign, deterministic network interface for AVIS-aligned systems.</span>
-    </p>
-    <p style="margin: 0; color: #e5e7eb; font-weight: 600;">
-      <span style="color:#f97300;">DEPLOYING FIRE-GEM:</span><br>
-      <span style="color:#3333ff;">- Operationalize FIRE-GEM as a persistent, protocol-governed execution environment.</span>
-    </p>
-  </div>
-
+<hr>
+      <div>
+        <h5 style="margin:0 0 4px 0; color:#7f5af0; letter-spacing:0.08em; text-transform:uppercase;">
+          🧬 Strategic Mission
+        </h5>
+        <h6 style="margin:0 0 12px 0; color:#2cb67d; font-weight:700;">
+          &emsp;&emsp;· AVIS‑2026 Network &amp; Deployment Initiative <br>
+          &emsp;&emsp;· Completing the Fire-Gem Launcher
+        </h6>
+      </div>
   <hr style="margin: 16px 0; border: 0; border-top: 1px solid #27272f;">
 
-  <h6 style="margin: 0 0 8px 0; color: #7f5af0; font-weight: 700;">
-    🔗 Access
-  </h6>
-
+  <h6 style="margin: 0 0 0 0; color: #7f5af0; font-weight: 700;">🔗 Access</h6>
   <ul style="list-style: none; padding-left: 0; margin: 0;">
-    <li style="margin-bottom: 4px;">
+    <li>
       🏰
       <a href="https://mercwar01.byethost3.com"
          style="color:#38bdf8; text-decoration:none;">
@@ -61,11 +40,47 @@
     </li>
   </ul>
 
+
+<hr style="margin: 16px 0; border: 0; border-top: 1px solid #27272f;">
+<!-- True Objectives -->
+<div style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
+  
+  <!-- Section 1 -->
+  <p style="margin: 0 0 15px 0; font-weight: 600;">
+    <span style="color: #9ef01a; font-weight: 500; letter-spacing: 0.03em;">
+      💻 <i>Networking Fire‑Com:</i>
+    </span><br>
+    <span style="color: #00d4ff; margin: 5px 0 0 20px; display: block; font-weight: 600;">
+      &emsp;&emsp;• Establish a sovereign, deterministic network interface for avis‑aligned systems.
+    </span>
+  </p>
+
+  <!-- Section 2 -->
+  <p style="margin: 0; font-weight: 600;">
+    <span style="color: #ff6b00; font-weight: 500; letter-spacing: 0.03em;">
+      🌎 <i>Deploying Fire‑Gem:</i>
+    </span><br>
+    <span style="color: #7f5af0; margin: 5px 0 0 20px; display: block;">
+      &emsp;&emsp;• Operationalize fire‑gem as a persistent, protocol‑governed execution environment.
+    </span>
+  </p>
+  
 </div>
 
----
 
-###### 🔱 **Core Identity**
+---
+<div align="center">
+        <pre style="line-height: 1.2; background: none; border: none; color: #00f2ff; font-family: monospace; margin: 0;">
+╔════════════════════════╗
+║     PRIMARY PROJECT    ║
+╚════════════════════════╝
+╔══════🔥 <a href="https://github.com/mercwar/FIRE-GEM" style="text-decoration: none;"><font color="#00f2ff">FIRE-GEM</font></a> 💎══════╗
+║            🌈            ║
+╚═══🔥 True Objectives 💎══╝</pre>
+
+</div>
+
+##### 🔱 **Core Identity**
 
 | Attribute         | Value                                         |
 | ----------------- | --------------------------------------------- |
@@ -180,11 +195,6 @@
 * **Lineage** → All artifacts declare origin
 * **Correction** → Every revision is recorded
 * **Governance** → Protocol defines execution
-
----
-
-#####  - 🌐 <i>**Primary Project**</i> 🌐 -
-###### ╚══ 🔥[FIRE-GEM](https://github.com/mercwar/FIRE-GEM)💎 ══╝
 
 ---
 
