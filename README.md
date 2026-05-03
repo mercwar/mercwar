@@ -139,8 +139,9 @@
 ##### 🛠️ **Core Skill Domains**
 
 <p align="center">
-  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/Gemini_Generated_Image_i7yb1si7yb1si7yb.png" width="100%">
+  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/Gemini_Generated_Image_slpbgbslpbgbslpb.png" width="100%">
 </p>
+
 
 ###### 🧩 Low-Level & Systems Engineering
 
@@ -161,9 +162,6 @@
   <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/Gemini_Generated_Image_qk91ltqk91ltqk91.png" width="100%">
 </p>
 
-
-
-
 ---
 
 ##### 🛡️ **Projects Under Law**
@@ -179,28 +177,47 @@
 
 ###### 🜇 **Technical Stack**
 
-##### Languages
+##### 🔊 Languages
 
 ```
 🌎 C, C++, Visual Basic, DC, Java, PHP, DHTML
 ```
 
-##### Systems
+##### 🔌 Systems
 
 ```
 💻 Windows API, MS-DOS, Linux (Bash)
 ```
 
-##### Engines
+##### 🚂 Engines
 
 ```
 💾 DirectX, FGEO Object Engine, Custom Pipelines
 ```
+
+<p align="center">
+  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/Gemini_Generated_Image_i7yb1si7yb1si7yb.png" width="100%">
+</p>
+
 ---
-##### 🏛️ **Professional Summary**
-###### * Senior Systems Architect specializing in **Windows API**, **low-level C systems**, **VB/COM architectures**, and **deterministic execution models**.
-###### * Creator of the **AVIS-2026 Protocol**  a structured framework for **self-describing, lineage-driven, and sovereign software systems**.
-###### * Focused on building **high-integrity execution environments** where artifacts are **traceable, governed, and reproducible by design**.
+
+## 🏛️ **Professional Summary**
+
+- **Senior Systems Architect** specializing in **Windows API**, **low‑level C systems**, **VB/COM architectures**, and **deterministic execution models**.
+
+- Creator of the **AVIS‑2026 Protocol**, a structured framework for **self‑describing, lineage‑driven, and sovereign software systems**.
+
+- Focused on building **high‑integrity execution environments** where artifacts are **traceable, governed, and reproducible by design**.
+
+---
+
+If you want, I can also refine this into:
+
+- a **tighter corporate résumé block**  
+- a **ceremonial MERCWAR‑style version**  
+- a **GitHub README identity section**  
+
+Just tell me which direction you want.
 ---
 <p align="center">
   <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260503_004536.png" width="100%">
