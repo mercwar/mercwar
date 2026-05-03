@@ -84,7 +84,7 @@
 
 <div align="center">
 
-##### 🔱 **Core Identity**
+### 🔱 **Core Identity**
 
 
 | Attribute | Value |
