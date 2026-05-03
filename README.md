@@ -215,6 +215,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260503_004536.png" width="100%">
+</p>
+
+
 ###### 👑 **Legal**
 
 ```
