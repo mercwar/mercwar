@@ -117,6 +117,9 @@
 ##### 🗝️ “Execution without law is chaos. Execution with law becomes creation.”
 ##### 💍 “Every artifact carries lineage, every revision is recorded truth.”
 
+<p align="center">
+  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/rku_angel_borg_female_version_banner_cathedral_background_132e0e5e.png" width="100%">
+</p>
 
 ---
 
