@@ -1,15 +1,8 @@
 <p align="center">
-  <img src="images/joe-tron.png" width="600">
-</p>
-
-<p align="center">
-  <img src="images/trons-win.svg" width="600">
+  <img src="images/joe-tron.png" width="100%">
 </p>
 
 
-<p align="center">
-  <img src="images/joe-tron.svg" width="600">
-</p>
 <hr>
       <div>
         <h5 style="margin:0 0 4px 0; color:#7f5af0; letter-spacing:0.08em; text-transform:uppercase;">
@@ -20,6 +13,9 @@
           &emsp;&emsp;· Completing the Fire-Gem Launcher
         </h6>
       </div>
+      <p align="center">
+  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260503_003318.png" width="100%">
+</p>
   <hr style="margin: 16px 0; border: 0; border-top: 1px solid #27272f;">
 
   <h6 style="margin: 0 0 0 0; color: #7f5af0; font-weight: 700;">🔗 Access</h6>
@@ -40,7 +36,9 @@
     </li>
   </ul>
 
-
+  <p align="center">
+  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260503_003419.png" width="100%">
+</p>
 <hr style="margin: 16px 0; border: 0; border-top: 1px solid #27272f;">
 <!-- True Objectives -->
 <div style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">🌈 True Objectives</div>
@@ -71,6 +69,7 @@
 
 
 ---
+
 <div align="center">
         <pre style="line-height: 1.2; background: none; border: none; color: #00f2ff; font-family: monospace; margin: 0;">
 ╔═══ PRIMARY 💾 PROJECT ══╗
@@ -78,6 +77,11 @@
 ╚═════ 🔥 <a href="https://github.com/mercwar/FIRE-GEM" style="text-decoration: none;"><font color="#00f2ff">FIRE-GEM</font></a> 💎 ════╝</pre>
 
 </div>
+
+<p align="center">
+  <img src="images/joe-tron.svg" width="100%">
+</p>
+
 
 ##### 🔱 **Core Identity**
 
@@ -132,6 +136,13 @@
 * Batch-driven build orchestration
 * Metadata lineage systems (**AIFVS**)
 * AVIS-LAW canonical enforcement
+---
+
+<p align="center">
+  <img src="images/trons-win.svg" width="100%">
+</p>
+
+
 
 ---
 
