@@ -70,6 +70,11 @@
 
 ---
 
+<p align="center">
+  <img src="images/trons-win.svg" width="100%">
+</p>
+
+
 <div align="center">
         <pre style="line-height: 1.2; background: none; border: none; color: #00f2ff; font-family: monospace; margin: 0;">
 ╔═══ PRIMARY 💾 PROJECT ══╗
@@ -80,6 +85,7 @@
 ║          🎡           ║
 ╚═══ ✨ <a href="https://github.com/mercwar/CYBORG-PROJECT-EXPLORER" style="text-decoration: none;"><font color="#00f2ff">CPJE-AI</font></a> ✨  ═══╝</pre>
 </div>
+
 
 <p align="center">
   <img src="images/joe-tron.svg" width="100%">
@@ -149,10 +155,10 @@
 * Metadata lineage systems (**AIFVS**)
 * AVIS-LAW canonical enforcement
 ---
-
 <p align="center">
-  <img src="images/trons-win.svg" width="100%">
+  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/Gemini_Generated_Image_qk91ltqk91ltqk91.png" width="100%">
 </p>
+
 
 
 
