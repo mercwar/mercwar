@@ -122,6 +122,11 @@
 
 ##### 💡 **AVIS-LAW OBJECTIVES**
 
+
+<p align="center">
+  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/image_41657621.png" width="100%">
+</p>
+
 > ###### **Strategic Objectives**
 >
 > * 🔷 Establish **FIRE-COM** as a sovereign network interface for deterministic communication
