@@ -75,7 +75,10 @@
 ╔═══ PRIMARY 💾 PROJECT ══╗
 ║            🧬           ║
 ╚═════ 🔥 <a href="https://github.com/mercwar/FIRE-GEM" style="text-decoration: none;"><font color="#00f2ff">FIRE-GEM</font></a> 💎 ════╝</pre>
-
+        <pre style="line-height: 1.2; background: none; border: none; color: #00f2ff; font-family: monospace; margin: 0;">
+╔═══ LIVE  💾 PROJECT ══╗
+║          🎡           ║
+╚═══ ✨ <a href="https://github.com/mercwar/CYBORG-PROJECT-EXPLORER" style="text-decoration: none;"><font color="#00f2ff">CPJE-AI</font></a> ✨  ═══╝</pre>
 </div>
 
 <p align="center">
@@ -110,9 +113,6 @@
 
 
 ---
-<p align="center">
-  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/Gemini_Generated_Image_slpbgbslpbgbslpb.png" width="100%">
-</p>
 
 ##### 💡 **AVIS-LAW OBJECTIVES**
 
@@ -131,7 +131,9 @@
 
 
 ##### 🛠️ **Core Skill Domains**
-
+<p align="center">
+  <img src="[images/joe-tron.png](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/Gemini_Generated_Image_i7yb1si7yb1si7yb.png)" width="100%">
+</p>
 ###### 🧩 Low-Level & Systems Engineering
 
 * Win32/Win64 API: message loops, GDI, handles, threading
@@ -154,7 +156,6 @@
 
 
 
-
 ---
 
 ##### 🛡️ **Projects Under Law**
@@ -167,10 +168,6 @@
 | **AIFVS Registry**     | Symbolic lineage & function mapping     |
 
 ---
-
-<p align="center">
-  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/Gemini_Generated_Image_wjg27wjg27wjg27w.png" width="100%">
-</p>
 
 ###### 🜇 **Technical Stack**
 
@@ -238,3 +235,7 @@ Forged under RK Fire & Gem — Purity through Creation
 
 
 <i>"If you want the **next evolution**, the real power move is AI "</i>
+
+<p align="center">
+  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/image_461890a1.png" width="100%">
+</p>
