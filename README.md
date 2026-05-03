@@ -82,26 +82,32 @@
   <img src="images/joe-tron.svg" width="100%">
 </p>
 
+<div align="center">
 
 ##### 🔱 **Core Identity**
 
-| Attribute         | Value                                         |
-| ----------------- | --------------------------------------------- |
-| **Architect**     | Joe Tron (Demonizer)                          |
-| **Title**         | CVBGOD • AVIS-2026 Lawgiver                   |
-| **Domain**        | Windows API • DC • VB • C                     |
-| **Discipline**    | Deterministic Systems & Protocol Architecture |
-| **Protocol**      | RK Fire & Gem                                 |
-| **Shells**        | MS-DOS • Linux Bash                           |
-| **Rendering**     | DirectX • FGEO Engine                         |
-| **Governing Law** | AVIS-2026 Protocol                            |
+
+| Attribute | Value |
+| :--- | :--- |
+| **Architect** | Joe Tron (Demonizer) |
+| **Title** | CVBGOD • AVIS-2026 Lawgiver |
+| **Domain** | Windows API • DC • VB • C |
+| **Discipline** | Deterministic Systems & Protocol Architecture |
+| **Protocol** | RK Fire & Gem |
+| **Shells** | MS-DOS • Linux Bash |
+| **Rendering** | DirectX • FGEO Engine |
+| **Governing Law** | AVIS-2026 Protocol |
 
 ---
+
+</div>
+
 
 #### 📜 **Operational Philosophy**
 
 ##### 🗝️ “Execution without law is chaos. Execution with law becomes creation.”
 ##### 💍 “Every artifact carries lineage, every revision is recorded truth.”
+
 
 ---
 
@@ -119,6 +125,7 @@
 > * 🟨 Enforce canonical integrity across all deployments
 
 ---
+
 
 ##### 🛠️ **Core Skill Domains**
 
