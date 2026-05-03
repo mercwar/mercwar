@@ -200,7 +200,9 @@
 ###### * Creator of the **AVIS-2026 Protocol**  a structured framework for **self-describing, lineage-driven, and sovereign software systems**.
 ###### * Focused on building **high-integrity execution environments** where artifacts are **traceable, governed, and reproducible by design**.
 ---
-
+<p align="center">
+  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260503_004536.png" width="100%">
+</p>
 ##### 📜 **Experience**
 
 ###### **Senior Systems Architect — MERCWAR Systems**
@@ -226,9 +228,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260503_004536.png" width="100%">
-</p>
+
 
 
 ###### 👑 **Legal**
