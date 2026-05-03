@@ -154,6 +154,10 @@
 * C / C++: DLL systems, memory control, performance design
 * DC: deterministic execution models
 * VB: COM integration, UI architecture
+* 
+<p align="center">
+  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/photorealistic_robo_knight_version_4_38f7a319%20.png)" width="100%">
+</p>
 
 ## ⚙️ Architecture & Protocol Design
 
