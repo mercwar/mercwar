@@ -110,6 +110,9 @@
 
 
 ---
+<p align="center">
+  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/Gemini_Generated_Image_slpbgbslpbgbslpb.png" width="100%">
+</p>
 
 ##### 💡 **AVIS-LAW OBJECTIVES**
 
@@ -151,6 +154,7 @@
 
 
 
+
 ---
 
 ##### 🛡️ **Projects Under Law**
@@ -163,6 +167,10 @@
 | **AIFVS Registry**     | Symbolic lineage & function mapping     |
 
 ---
+
+<p align="center">
+  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/Gemini_Generated_Image_wjg27wjg27wjg27w.png" width="100%">
+</p>
 
 ###### 🜇 **Technical Stack**
 
