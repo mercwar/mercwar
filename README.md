@@ -138,7 +138,7 @@
 
 ##### 🛠️ **Core Skill Domains**
 <p align="center">
-  <img src="[images/joe-tron.png](https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/Gemini_Generated_Image_i7yb1si7yb1si7yb.png)" width="100%">
+  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/Gemini_Generated_Image_i7yb1si7yb1si7yb.png" width="100%">
 </p>
 ###### 🧩 Low-Level & Systems Engineering
 
