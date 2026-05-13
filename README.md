@@ -4,19 +4,18 @@
 </p>
 
 
-<div align="center">
+<div align="center" style="white-space: nowrap; display: block;">
 
- <a href="https://github.com/mercwar/Robo-Knight-Player" style="text-decoration: none;">
-   <img src="images/image_1de83b70.png" width="300" height="142">
- </a> 
- <a href="https://github.com/mercwar/Fire-Gem" style="text-decoration: none;">
-   <img src="images/image_868103dd.png" width="300" height="142">
- </a> 
- <a href="https://github.com/mercwar/CYBORG-PROJECT-EXPLORER" style="text-decoration: none;">
-   <img src="images/image_b24e9525.png" width="300" height="142">
+ <a href="https://github.com/mercwar/Robo-Knight-Player" style="text-decoration: none; display: inline-block;">
+   <img src="images/image_1de83b70.png" width="300" height="142" style="display: inline; vertical-align: middle;">
+ </a><a href="https://github.com/mercwar/Fire-Gem" style="text-decoration: none; display: inline-block;">
+   <img src="images/image_868103dd.png" width="300" height="142" style="display: inline; vertical-align: middle;">
+ </a><a href="https://github.com/mercwar/CYBORG-PROJECT-EXPLORER" style="text-decoration: none; display: inline-block;">
+   <img src="images/image_b24e9525.png" width="300" height="142" style="display: inline; vertical-align: middle;">
  </a> 
 
 </div>
+
 <hr>
       <div>
         <h5 style="margin:0 0 4px 0; color:#7f5af0; letter-spacing:0.08em; text-transform:uppercase;">
