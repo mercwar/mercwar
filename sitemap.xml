@@ -10,6 +10,12 @@
     <loc>https://github.com/mercwar/mercwar/blob/main/sitemap.sh</loc>
   </url>
   <url>
+    <loc>https://github.com/mercwar/mercwar/blob/main/images/frame_p3.png</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/mercwar/blob/main/images/frame_p1.png</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/mercwar/blob/main/images/joe-tron.png</loc>
   </url>
   <url>
@@ -20,6 +26,9 @@
   </url>
   <url>
     <loc>https://github.com/mercwar/mercwar/blob/main/images/joe-tron.svg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/mercwar/blob/main/images/frame_p2.png</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/mercwar/blob/main/images/cvbgod.svg</loc>
