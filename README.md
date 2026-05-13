@@ -99,7 +99,7 @@
 ---
 
 <p align="center">
-<a href="https://roborook.fanclub.rocks/RRP/" title="CLICK HERE TO VISIT!" ><img src="images/rru-pss-rrp.png" width="100%"></a>
+<a href="https://roborook.fanclub.rocks/RRP/" title="CLICK HERE to VISIT and LISTEN to the MUSIC FREE!" ><img src="images/rru-pss-rrp.png" width="100%"></a>
 </p>
 
 <p align="center">
