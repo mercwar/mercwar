@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="images/joe-tron.png" width="100%">
+</p>
+
+
 <div align="center">
 
  <a href="https://github.com/mercwar/Robo-Knight-Player" style="text-decoration: none;">
@@ -12,11 +17,6 @@
  </a> 
 
 </div>
-<p align="center">
-  <img src="images/joe-tron.png" width="100%">
-</p>
-
-
 <hr>
       <div>
         <h5 style="margin:0 0 4px 0; color:#7f5af0; letter-spacing:0.08em; text-transform:uppercase;">
