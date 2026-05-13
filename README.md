@@ -91,19 +91,19 @@
 
 
 <div align="center">
-        <pre style="line-height: 1.2; background: none; border: none; color: #00f2ff; font-family: monospace; margin: 0;">
-╔═══ PRIMARY 💾 PROJECT ══╗
-║            🧬           ║
-╚═════ 🔥 <a href="https://github.com/mercwar/FIRE-GEM" style="text-decoration: none;"><font color="#00f2ff">FIRE-GEM</font></a> 💎 ════╝</pre>
-        <pre style="line-height: 1.2; background: none; border: none; color: #00f2ff; font-family: monospace; margin: 0;">
-╔═══ LIVE  💾 PROJECT ══╗
-║          🎡           ║
-╚═══ ✨ <a href="https://github.com/mercwar/CYBORG-PROJECT-EXPLORER" style="text-decoration: none;"><font color="#00f2ff">CPJE-AI</font></a> ✨  ═══╝</pre>
-          <pre style="line-height: 1.2; background: none; border: none; color: #00f2ff; font-family: monospace; margin: 0;">
-╔═══ LIVE  💾 PROJECT ══╗
-║          🎡           ║
-╚══ ✨ <a href="https://github.com/mercwar/Robo-Knight-Player" style="text-decoration: none;"><font color="#00f2ff">RRP-Link</font></a> ✨  ═══╝</pre>
+
+ <a href="https://github.com/mercwar/Robo-Knight-Player" style="text-decoration: none;">
+   <img src="images/frame_fp1.png" width="100" height="162">
+ </a> 
+ <a href="https://github.com/mercwar/Robo-Knight-Player" style="text-decoration: none;">
+   <img src="images/frame_fp2.png" width="100" height="162">
+ </a> 
+ <a href="https://github.com/mercwar/Robo-Knight-Player" style="text-decoration: none;">
+   <img src="images/frame_fp2.png" width="100" height="162">
+ </a> 
+
 </div>
+
 
 
 <p align="center">
