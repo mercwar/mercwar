@@ -22,9 +22,16 @@
   <ul style="list-style: none; padding-left: 0; margin: 0;">
     <li>
       🏰
-      <a href="https://mercwar01.byethost3.com"
+      <a href="https://roborook.fanclub.rocks/RRP/index.php"
          style="color:#38bdf8; text-decoration:none;">
-        https://mercwar01.byethost3.com
+        https://roborook.fanclub.rocks
+      </a>
+    </li>
+        <li>
+      🏰
+      <a href="https://roborook.fanclub.rocks"
+         style="color:#38bdf8; text-decoration:none;">
+        https://roborook.fanclub.rocks/RRP/index.php
       </a>
     </li>
     <li>
@@ -64,14 +71,22 @@
       &emsp;&emsp;• Operationalize fire‑gem as a persistent, protocol‑governed execution environment.
     </span>
   </p>
-  
+    <!-- Section 2 -->
+  <p style="margin: 0; font-weight: 600;">
+    <span style="color: #ff6b00; font-weight: 500; letter-spacing: 0.03em;">
+      🌎 <i>Networking playlists for the RRP:</i>
+    </span><br>
+    <span style="color: #7f5af0; margin: 5px 0 0 20px; display: block;">
+      &emsp;&emsp;• Network the Robo Rook Player as a persistent, protocol‑governed executable user environment.
+    </span>
+  </p>
 </div>
 
 
 ---
 
 <p align="center">
-  <img src="images/trons-win.svg" width="100%">
+  <img src="images/rru-pss-rrp.png" width="100%">
 </p>
 
 
@@ -84,6 +99,10 @@
 ╔═══ LIVE  💾 PROJECT ══╗
 ║          🎡           ║
 ╚═══ ✨ <a href="https://github.com/mercwar/CYBORG-PROJECT-EXPLORER" style="text-decoration: none;"><font color="#00f2ff">CPJE-AI</font></a> ✨  ═══╝</pre>
+          <pre style="line-height: 1.2; background: none; border: none; color: #00f2ff; font-family: monospace; margin: 0;">
+╔═══ LIVE  💾 PROJECT ══╗
+║          🎡           ║
+╚═══ ✨ <a href="https://github.com/mercwar/Robo-Knight-Player" style="text-decoration: none;"><font color="#00f2ff">Robo-Rook-Player</font></a> ✨  ═══╝</pre>
 </div>
 
 
