@@ -99,13 +99,8 @@
 ---
 
 <p align="center">
-  <img src="images/rru-pss-rrp.png" width="100%">
+<a href="https://roborook.fanclub.rocks/RRP/" title="CLICK HERE TO VISIT!" ><img src="images/rru-pss-rrp.png" width="100%"></a>
 </p>
-
-
-
-
-
 
 <p align="center">
   <img src="images/joe-tron.svg" width="100%">
