@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/mercwar/mercwar/blob/main/README.md</loc>
-  </url>
-  <url>
     <loc>https://github.com/mercwar/mercwar/blob/main/.github/workflows/site-map.yml</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/mercwar/blob/main/sitemap.sh</loc>
+    <loc>https://github.com/mercwar/mercwar/blob/main/sitemap.xml</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/mercwar/blob/main/images/frame_fp2.png</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/mercwar/blob/main/images/image_1de83b70.png</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/mercwar/blob/main/images/frame_p1.png</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/mercwar/blob/main/images/frame_p2.png</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/mercwar/blob/main/images/rru-pss-rrp.png</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/mercwar/blob/main/images/frame_fp3.png</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/mercwar/blob/main/images/image_b24e9525.png</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/mercwar/blob/main/images/cvbgod.svg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/mercwar/blob/main/images/joe-tron.svg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/mercwar/blob/main/images/joe-tron.png</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/mercwar/blob/main/images/frame_p3.png</loc>
@@ -19,39 +43,15 @@
     <loc>https://github.com/mercwar/mercwar/blob/main/images/image_868103dd.png</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/mercwar/blob/main/images/frame_fp2.png</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/mercwar/blob/main/images/frame_p1.png</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/mercwar/blob/main/images/joe-tron.png</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/mercwar/blob/main/images/image_1de83b70.png</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/mercwar/blob/main/images/rru-pss-rrp.png</loc>
+    <loc>https://github.com/mercwar/mercwar/blob/main/images/trons-win.svg</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/mercwar/blob/main/images/frame_fp1.png</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/mercwar/blob/main/images/trons-win.svg</loc>
+    <loc>https://github.com/mercwar/mercwar/blob/main/sitemap.sh</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/mercwar/blob/main/images/frame_fp3.png</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/mercwar/blob/main/images/joe-tron.svg</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/mercwar/blob/main/images/frame_p2.png</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/mercwar/blob/main/images/cvbgod.svg</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/mercwar/blob/main/sitemap.xml</loc>
+    <loc>https://github.com/mercwar/mercwar/blob/main/README.md</loc>
   </url>
 </urlset>
