@@ -7,11 +7,11 @@
 <div align="center" style="white-space: nowrap; display: block;">
 
  <a href="https://github.com/mercwar/Robo-Knight-Player" style="text-decoration: none; display: inline-block;">
-   <img src="images/image_1de83b70.png" width="200" height="102" style="display: inline; vertical-align: middle;">
+   <img src="images/image_1de83b70.png" width="120" height="70" style="display: inline; vertical-align: middle;">
  </a><a href="https://github.com/mercwar/Fire-Gem" style="text-decoration: none; display: inline-block;">
-   <img src="images/image_868103dd.png" width="200" height="102" style="display: inline; vertical-align: middle;">
+   <img src="images/image_868103dd.png" width="120" height="70" style="display: inline; vertical-align: middle;">
  </a><a href="https://github.com/mercwar/CYBORG-PROJECT-EXPLORER" style="text-decoration: none; display: inline-block;">
-   <img src="images/image_b24e9525.png" width="200" height="102" style="display: inline; vertical-align: middle;">
+   <img src="images/image_b24e9525.png" width="120" height="70" style="display: inline; vertical-align: middle;">
  </a> 
 
 </div>
@@ -35,14 +35,14 @@
   <ul style="list-style: none; padding-left: 0; margin: 0;">
     <li>
       🏰
-      <a href="https://roborook.fanclub.rocks/RRP/index.php"
+      <a href="https://mercwar01.byethost3.com/RRP/index.php"
          style="color:#38bdf8; text-decoration:none;">
         https://roborook.fanclub.rocks
       </a>
     </li>
         <li>
       🏰
-      <a href="https://roborook.fanclub.rocks"
+      <a href="https://mercwar01.byethost3.com"
          style="color:#38bdf8; text-decoration:none;">
         https://roborook.fanclub.rocks/RRP/index.php
       </a>
