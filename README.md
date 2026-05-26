@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-<a href="https://mercwar01.byethost3.com/RRP/" title="**CLICK HERE** to VISIT and LISTEN to the MUSIC for FREE!" ><img src="images/rru-pss-rrp.png" width="100%"></a>
+<a href="https://mercwar01.byethost3.com/RRP/" title="**CLICK HERE** to VISIT and LISTEN to the MUSIC for FREE!" ><img src="images/rru-pss-rrp1.png" width="100%"></a>
 </p>
 
 
