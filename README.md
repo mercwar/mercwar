@@ -8,18 +8,84 @@
   <img src="images/joe-tron.png" width="100%">
 </p>
 
+<div align="center">
 
-<div align="center" style="white-space: nowrap; display: block;">
+<table style="border-collapse: collapse; border: none;">
 
- <a href="https://github.com/mercwar/Robo-Knight-Player" style="text-decoration: none; display: inline-block;">
-   <img src="images/image_1de83b70.png" width="120" height="70" style="display: inline; vertical-align: middle;">
- </a><a href="https://github.com/mercwar/Fire-Gem" style="text-decoration: none; display: inline-block;">
-   <img src="images/image_868103dd.png" width="120" height="70" style="display: inline; vertical-align: middle;">
- </a><a href="https://github.com/mercwar/CYBORG-PROJECT-EXPLORER" style="text-decoration: none; display: inline-block;">
-   <img src="images/image_b24e9525.png" width="120" height="70" style="display: inline; vertical-align: middle;">
- </a> 
+<tr style="background: transparent; border: none;">
+
+  <!-- ROBO-KNIGHT PLAYER -->
+  <td align="center" style="
+      border: none;
+      border-radius: 6px;
+      background: #0d1117;
+      padding: 12px 20px;
+      min-width: 150px;">
+    🎮
+    <a href="https://github.com/mercwar/Robo-Knight-Player" style="text-decoration: none;">
+      <strong style="color: #ffffff; font-family: monospace; font-size: 13px; letter-spacing: 0.5px;">
+        ROBO‑KNIGHT PLAYER
+      </strong>
+    </a>
+  </td>
+
+  <td width="10" style="border: none;"></td>
+
+  <!-- FIRE-GEM -->
+  <td align="center" style="
+      border: 2px solid #ff4500;
+      border-radius: 6px;
+      background: #0d1117;
+      padding: 12px 20px;
+      min-width: 150px;">
+    🔥
+    <a href="https://github.com/mercwar/Fire-Gem" style="text-decoration: none;">
+      <strong style="color: #ffffff; font-family: monospace; font-size: 13px; letter-spacing: 0.5px;">
+        FIRE‑GEM
+      </strong>
+    </a>
+  </td>
+
+  <td width="10" style="border: none;"></td>
+
+  <!-- CYBORG EXPLORER -->
+  <td align="center" style="
+      border: 2px solid #ffaa00;
+      border-radius: 6px;
+      background: #0d1117;
+      padding: 12px 20px;
+      min-width: 150px;">
+    🔎
+    <a href="https://github.com/mercwar/CYBORG-PROJECT-EXPLORER" style="text-decoration: none;">
+      <strong style="color: #ffffff; font-family: monospace; font-size: 13px; letter-spacing: 0.5px;">
+        CYBORG‑EXPLORER
+      </strong>
+    </a>
+  </td>
+
+  <td width="10" style="border: none;"></td>
+
+  <!-- AVIS MK-SCAN -->
+  <td align="center" style="
+      border: 2px solid #39ff14;
+      border-radius: 6px;
+      background: #0d1117;
+      padding: 12px 20px;
+      min-width: 150px;">
+    ⚡
+    <a href="https://github.com/mercwar/AVIS-AI-INI-DIR-MK-SCAN" style="text-decoration: none;">
+      <strong style="color: #ffffff; font-family: monospace; font-size: 13px; letter-spacing: 0.5px;">
+        AVIS AI MK‑SCAN
+      </strong>
+    </a>
+  </td>
+
+</tr>
+
+</table>
 
 </div>
+
 
 <hr>
       <div>
