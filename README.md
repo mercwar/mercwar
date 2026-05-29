@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://roborook.fanclub.rocks">
+  <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%206/image_33de3c8e.png" width="150px" height="65px">
+  </a>
+</p>
 
 <p align="center">
   <img src="images/joe-tron.png" width="100%">
