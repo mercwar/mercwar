@@ -118,7 +118,7 @@
     </li>
     <li>
       📡
-      <a href="https://github.com/mercwar"
+      <a href="https://github.com/mercwar/Constellation"
          style="color:#22c55e; text-decoration:none;">
         https://github.com/mercwar/Constellation
       </a>
