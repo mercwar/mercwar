@@ -1,10 +1,22 @@
 <p align="center">
+   <img src="images/joe-tron.png" width="100%">
   <a href="https://roborook.fanclub.rocks" title="Click Here to Enter the portal for FREE!">
   <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%206/image_33de3c8e.png" width="286px" height="165px">
   </a>
 
-  <img src="images/joe-tron.png" width="100%">
+
+ 
 </p>
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<img 
+    src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%207/image_d2a07390.png" 
+    alt="Mercwar Constellation" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
+---
+
 
 <div align="center">
 
