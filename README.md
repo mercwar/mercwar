@@ -1,7 +1,7 @@
 <p align="center">
    <img src="images/JOE-TRON-BANNER.png" width="100%">
   <a href="https://roborook.fanclub.rocks" title="Click Here to Enter the portal for FREE!">
-  <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%206/image_33de3c8e.png" width="286px" height="165px">
+  <img src="images/Gemini_Generated_Image_qr9zq9qr9zq9qr9z.png" width="a00%" >
   </a>
 
 
