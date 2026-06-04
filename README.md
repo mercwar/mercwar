@@ -1,7 +1,7 @@
 <p align="center">
    <img src="images/JOE-TRON-BANNER.png" width="100%">
   <a href="https://roborook.fanclub.rocks" title="Click Here to Enter the portal for FREE!">
-  <img src="images/Gemini_Generated_Image_qr9zq9qr9zq9qr9z.png" width="a00%" >
+  <img src="images/Copilot_20260604_071945.png" width="a00%" >
   </a>
 
 
