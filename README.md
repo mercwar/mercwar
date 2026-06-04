@@ -20,7 +20,7 @@
 
 ---
 
-# ⚡ Mercwar AI Portal Reference for Users & Developerers 
+# ⚡ Mercwar AI Portal Constellation Gateway Reference for Users & Developerers 
 
 ## 🛰 What This Page Is
 The **Mercwar AI Portal** is an interactive web interface that lets users:
