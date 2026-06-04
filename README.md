@@ -15,84 +15,138 @@
 />
 </a>
 
+
+<div align="left">
+
 ---
 
+# ⚡ Mercwar AI Portal Reference for Users & Developerers 
 
-<div align="center">
+## 🛰 What This Page Is
+The **Mercwar AI Portal** is an interactive web interface that lets users:
 
-<table style="border-collapse: collapse; border: none;">
+- Browse GitHub repositories through a built‑in Constellation browser  
+- Launch external portals inside an embedded tool window  
+- Navigate Mercwar systems (Fire‑Star, Ice‑Star, Void‑Star, etc.)  
+- Use sidebar controls to customize how links open  
 
-<tr style="background: transparent; border: none;">
+Everything runs client‑side with no installation required.
 
-  <!-- ROBO-KNIGHT PLAYER -->
-  <td align="center" style="
-      border: none;
-      border-radius: 6px;
-      background: #0d1117;
-      padding: 12px 20px;
-      min-width: 150px;">
-    🎮
-    <a href="https://github.com/mercwar/Robo-Knight-Player" style="text-decoration: none;">
-      <strong style="color: #ffffff; font-family: monospace; font-size: 13px; letter-spacing: 0.5px;">
-        ROBO‑KNIGHT PLAYER
-      </strong>
-    </a>
-  </td>
+---
 
-  <td width="10" style="border: none;"></td>
+## 👤 For Users
 
-  <!-- FIRE-GEM -->
-  <td align="center" style="
-      border: 2px solid #ff4500;
-      border-radius: 6px;
-      background: #0d1117;
-      padding: 12px 20px;
-      min-width: 150px;">
-    🔥
-    <a href="https://github.com/mercwar/Fire-Gem" style="text-decoration: none;">
-      <strong style="color: #ffffff; font-family: monospace; font-size: 13px; letter-spacing: 0.5px;">
-        FIRE‑GEM
-      </strong>
-    </a>
-  </td>
+### 1. **Opening the Main Gate**
+Click **Joe Tron’s Avis Gate** to open the primary uplink window.  
+If **Up‑link Window** is enabled, portals load inside the page instead of a new tab.
 
-  <td width="10" style="border: none;"></td>
+---
 
-  <!-- CYBORG EXPLORER -->
-  <td align="center" style="
-      border: 2px solid #ffaa00;
-      border-radius: 6px;
-      background: #0d1117;
-      padding: 12px 20px;
-      min-width: 150px;">
-    🔎
-    <a href="https://github.com/mercwar/CYBORG-PROJECT-EXPLORER" style="text-decoration: none;">
-      <strong style="color: #ffffff; font-family: monospace; font-size: 13px; letter-spacing: 0.5px;">
-        CYBORG‑EXPLORER
-      </strong>
-    </a>
-  </td>
+### 2. **Sidebar Controls**
+Two toggles modify how the interface behaves:
 
-  <td width="10" style="border: none;"></td>
+- **Up‑link Window** — Load portals inside the embedded tool window  
+- **Pin Sidebar** — Keep the sidebar fixed while navigating
 
-  <!-- AVIS MK-SCAN -->
-  <td align="center" style="
-      border: 2px solid #39ff14;
-      border-radius: 6px;
-      background: #0d1117;
-      padding: 12px 20px;
-      min-width: 150px;">
-    ⚡
-    <a href="https://github.com/mercwar/AVIS-AI-INI-DIR-MK-SCAN" style="text-decoration: none;">
-      <strong style="color: #ffffff; font-family: monospace; font-size: 13px; letter-spacing: 0.5px;">
-        AVIS AI MK‑SCAN
-      </strong>
-    </a>
-  </td>
+---
 
-</tr>
+### 3. **Using the Constellation GitHub Browser**
+The **CONSTELLATION** dropdown contains a live GitHub repo explorer:
 
-</table>
+1. Select a GitHub username from the list  
+2. Or choose **Show me the Box** to enter a custom username  
+3. Click **LOAD REPOS**  
+4. Repositories appear as buttons  
+5. Clicking a repo opens it in the tool window or a new tab depending on your settings
+
+This allows browsing **any GitHub user’s public repositories** directly inside the portal.
+
+---
+
+### 4. **System Hub**
+Quick‑launch tools such as:
+
+- Opera GX  
+- RenderDoc  
+
+These open using the same window rules as the rest of the portal.
+
+---
+
+### 5. **Mercwar Portal Systems**
+This menu links to all major Mercwar portals:
+
+- Mercwar AI Portal  
+- Avis Fire‑Star  
+- Avis Ice‑Star  
+- Avis Void‑Star  
+- Mercwar GitHub Portal  
+- GitHub User Portal  
+
+Each opens as a standalone portal environment.
+
+---
+
+### 6. **Return to Console**
+Resets the interface and closes active tool windows.
+
+---
+
+## 🧑‍💻 For Developers
+
+### **Project Structure**
+The portal is built with:
+
+- **index.html** — Main UI layout  
+- **css/index.css** — Core styling  
+- **css/rru_gx.css** — RRU / GX theme styling  
+- **js/index.js** — Portal logic, GitHub API calls, window handling  
+
+All functionality is client‑side.
+
+---
+
+### **GitHub API Usage**
+The Constellation browser uses the **public GitHub REST API** to:
+
+- Fetch user repositories  
+- Generate repo buttons dynamically  
+- Load repo pages into the tool window  
+
+No authentication is required for public repos.
+
+---
+
+### **Tool Window Behavior**
+The embedded tool window respects:
+
+- **Up‑link Window** toggle  
+- **launchPortal()** and **openToolWindow()** functions  
+- Frame‑locking and sidebar pinning  
+
+Developers can extend this behavior by modifying `index.js`.
+
+---
+
+### **Customization**
+You can modify:
+
+- Default GitHub usernames  
+- Portal links  
+- Button groups  
+- Theme styling (RRU / GX)  
+- Banner click‑actions  
+
+All changes are isolated to HTML + CSS + JS.
+
+---
+
+## 🧩 Requirements
+- Modern browser  
+- JavaScript enabled  
+- No backend server needed  
+
+---
 
 </div>
 
@@ -112,30 +166,8 @@
 </p>
   <hr style="margin: 16px 0; border: 0; border-top: 1px solid #27272f;">
 
-  <h6 style="margin: 0 0 0 0; color: #7f5af0; font-weight: 700;">🔗 Access</h6>
-  <ul style="list-style: none; padding-left: 0; margin: 0;">
-    <li>
-      🏰
-      <a href="https://mercwar01.byethost3.com/RRP/index.php"
-         style="color:#38bdf8; text-decoration:none;">
-        https://roborook.fanclub.rocks
-      </a>
-    </li>
-        <li>
-      🏰
-      <a href="https://mercwar01.byethost3.com"
-         style="color:#38bdf8; text-decoration:none;">
-        https://roborook.fanclub.rocks/RRP/index.php
-      </a>
-    </li>
-    <li>
-      📡
-      <a href="https://github.com/mercwar/Constellation"
-         style="color:#22c55e; text-decoration:none;">
-        https://github.com/mercwar/Constellation
-      </a>
-    </li>
-  </ul>
+
+
 
   <p align="center">
   <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260503_003419.png" width="100%">
