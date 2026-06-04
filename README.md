@@ -20,9 +20,9 @@
 
 ---
 
-# ⚡ Mercwar AI Portal Constellation Gateway Reference for Users & Developerers 
+### ⚡ Mercwar AI Portal Constellation Gateway Reference for Users & Developerers 
 
-## 🛰 What This Page Is
+#### 🛰 What This Page Is
 The **Mercwar AI Portal** is an interactive web interface that lets users:
 
 - Browse GitHub repositories through a built‑in Constellation browser  
@@ -34,15 +34,15 @@ Everything runs client‑side with no installation required.
 
 ---
 
-## 👤 For Users
+#### 👤 For Users
 
-### 1. **Opening the Main Gate**
+##### 1. **Opening the Main Gate**
 Click **Joe Tron’s Avis Gate** to open the primary uplink window.  
 If **Up‑link Window** is enabled, portals load inside the page instead of a new tab.
 
 ---
 
-### 2. **Sidebar Controls**
+##### 2. **Sidebar Controls**
 Two toggles modify how the interface behaves:
 
 - **Up‑link Window** — Load portals inside the embedded tool window  
@@ -50,7 +50,7 @@ Two toggles modify how the interface behaves:
 
 ---
 
-### 3. **Using the Constellation GitHub Browser**
+##### 3. **Using the Constellation GitHub Browser**
 The **CONSTELLATION** dropdown contains a live GitHub repo explorer:
 
 1. Select a GitHub username from the list  
@@ -63,7 +63,7 @@ This allows browsing **any GitHub user’s public repositories** directly inside
 
 ---
 
-### 4. **System Hub**
+##### 4. **System Hub**
 Quick‑launch tools such as:
 
 - Opera GX  
@@ -73,7 +73,7 @@ These open using the same window rules as the rest of the portal.
 
 ---
 
-### 5. **Mercwar Portal Systems**
+##### 5. **Mercwar Portal Systems**
 This menu links to all major Mercwar portals:
 
 - Mercwar AI Portal  
@@ -87,14 +87,14 @@ Each opens as a standalone portal environment.
 
 ---
 
-### 6. **Return to Console**
+##### 6. **Return to Console**
 Resets the interface and closes active tool windows.
 
 ---
 
-## 🧑‍💻 For Developers
+### 🧑‍💻 For Developers
 
-### **Project Structure**
+##### **Project Structure**
 The portal is built with:
 
 - **index.html** — Main UI layout  
@@ -106,7 +106,7 @@ All functionality is client‑side.
 
 ---
 
-### **GitHub API Usage**
+##### **GitHub API Usage**
 The Constellation browser uses the **public GitHub REST API** to:
 
 - Fetch user repositories  
@@ -117,7 +117,7 @@ No authentication is required for public repos.
 
 ---
 
-### **Tool Window Behavior**
+##### **Tool Window Behavior**
 The embedded tool window respects:
 
 - **Up‑link Window** toggle  
@@ -128,7 +128,7 @@ Developers can extend this behavior by modifying `index.js`.
 
 ---
 
-### **Customization**
+##### **Customization**
 You can modify:
 
 - Default GitHub usernames  
@@ -141,7 +141,7 @@ All changes are isolated to HTML + CSS + JS.
 
 ---
 
-## 🧩 Requirements
+#### 🧩 Requirements
 - Modern browser  
 - JavaScript enabled  
 - No backend server needed  
