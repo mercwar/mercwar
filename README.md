@@ -14,7 +14,7 @@
     style="width:100%; height:auto;"
 />
 <img 
-    src="images/image_2026-06-04_071440113.png" 
+    src="images/cyborg_live.png" 
     alt="Mercwar Constellation" 
     style="width:100%; height:auto;"
 />
