@@ -1,7 +1,7 @@
 <p align="center">
-   <img src="images/JOE-TRON-BANNER.png" width="100%">
+   <img src="images/joe-tron-new-1.png" width="100%">
   <a href="https://roborook.fanclub.rocks" title="Click Here to Enter the portal for FREE!">
-  <img src="images/joe-tron-new-1.png" width="a00%" >
+  <img src="images/joe-tron-poral-1.png" width="100%" >
   </a>
 
 
