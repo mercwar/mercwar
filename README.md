@@ -221,9 +221,7 @@ All changes are isolated to HTML + CSS + JS.
 <a href="https://roborook.fanclub.rocks/" title="**CLICK HERE** to VISIT and USE RRU FREE!" ><img src="images/fire-star.png" width="100%"></a>
 </p>
 
-<p align="center">
-  <img src="images/joe-tron.svg" width="100%">
-</p>
+
 
 <p align="center">
 <a href="https://roborook.fanclub.rocks//RRP/" title="**CLICK HERE** to VISIT and LISTEN to the MUSIC for FREE!" ><img src="images/rru-pss-rrp1.png" width="100%"></a>
