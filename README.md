@@ -1,9 +1,7 @@
-<p align="center">   <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%208/Copilot_20260523_194901%20-%20Copy.png" width="100%">
+<p align="center"> <img src="images/joe-tron-new-1.png" width="100%">  
      <a href="https://roborook.fanclub.rocks" title="Click Here to Enter the portal for FREE!">
   <img src="images/joe-tron-poral-1.png" width="100%" >
   </a>
-
-   <img src="images/joe-tron-new-1.png" width="100%">
 
 
 
@@ -18,6 +16,8 @@
     style="width:100%; height:auto;"
 />
 </a>
+
+   <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%208/Copilot_20260523_194901%20-%20Copy.png" width="100%">
 
 
 <div align="left">
@@ -146,7 +146,7 @@ The Constellation browser uses the **public GitHub REST API** to:
 No authentication is required for public repos.
 
 ---
- <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/Copilot_20260612_022344.png" width="100%">
+ <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/Copilot_20260612_021933.png" width="100%">
 
 ##### **Tool Window Behavior**
 The embedded tool window respects:
