@@ -17,7 +17,7 @@
 />
 </a>
 
-   <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%208/Copilot_20260523_194901%20-%20Copy.png" width="100%">
+<img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/cyborg-mercwarai.png" width="100%">
 
 
 <div align="left">
@@ -39,7 +39,9 @@ Everything runs client‑side with no installation required.
 ---
 
 
-<img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/cyborg-mercwarai.png" width="100%">
+   <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%208/Copilot_20260523_194901%20-%20Copy.png" width="100%">
+
+
 
 #### 👤 For Users
 
