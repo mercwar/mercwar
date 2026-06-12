@@ -439,5 +439,5 @@ Forged under RK Fire & Gem — Purity through Creation
 <i>"If you want the **next evolution**, the real power move is AI "</i>
 
 <p align="center">
-  <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/image_461890a1.png" width="100%">
+  <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/Gemini_Generated_Image_f6vk3lf6vk3lf6vk.png" width="100%">
 </p>
