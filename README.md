@@ -40,6 +40,7 @@ Everything runs client‑side with no installation required.
 
 
 <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/cyborg-mercwarai.png" width="100%">
+
 #### 👤 For Users
 
 ##### 1. **Opening the Main Gate**
@@ -56,6 +57,7 @@ If **Up‑link Window** is enabled, portals load inside the page instead of a ne
 />
   
 </a>
+
 ##### 2. **Sidebar Controls**
 Two toggles modify how the interface behaves:
 
@@ -327,7 +329,7 @@ All changes are isolated to HTML + CSS + JS.
   <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/photorealistic_robo_knight_version_4_38f7a319.png" width="100%">
 </p>
 
-## ⚙️ Architecture & Protocol Design
+#### ⚙️ Architecture & Protocol Design
 
 * Interpreter stacks (**CVBGOD / SYNBOT**)
 * Symbolic registries & binary mapping
