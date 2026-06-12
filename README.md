@@ -1,24 +1,22 @@
-<p align="center">
-   <img src="images/joe-tron-new-1.png" width="100%">
-  <a href="https://roborook.fanclub.rocks" title="Click Here to Enter the portal for FREE!">
+<p align="center">   <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%208/Copilot_20260523_194901%20-%20Copy.png" width="100%">
+     <a href="https://roborook.fanclub.rocks" title="Click Here to Enter the portal for FREE!">
   <img src="images/joe-tron-poral-1.png" width="100%" >
   </a>
+
+   <img src="images/joe-tron-new-1.png" width="100%">
+
 
 
  
 </p>
+
+   
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
 <img 
     src="images/mercwar.png" 
     alt="Mercwar Constellation" 
     style="width:100%; height:auto;"
 />
-<img 
-    src="images/cyborg_live.png" 
-    alt="Mercwar Constellation" 
-    style="width:100%; height:auto;"
-/>
-  
 </a>
 
 
@@ -39,6 +37,8 @@ The **Mercwar AI Portal** is an interactive web interface that lets users:
 Everything runs client‑side with no installation required.
 
 ---
+<img width="100%" src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/mercwar-font.png">
+
 
 #### 👤 For Users
 
@@ -47,6 +47,7 @@ Click **Joe Tron’s Avis Gate** to open the primary uplink window.
 If **Up‑link Window** is enabled, portals load inside the page instead of a new tab.
 
 ---
+<img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%208/Copilot_20260523_230323.png" width="100%">
 
 ##### 2. **Sidebar Controls**
 Two toggles modify how the interface behaves:
@@ -70,10 +71,20 @@ This allows browsing **any GitHub user’s public repositories** directly inside
 ---
 
 ##### 4. **System Hub**
-Quick‑launch tools such as:
+Quick‑launch tools for:
 
 - Opera GX  
-- RenderDoc  
+- Firefox 
+- MS-E
+- DHTML Browsers
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<img 
+    src="images/cyborg_live.png" 
+    alt="Mercwar Constellation" 
+    style="width:100%; height:auto;"
+/>
+  
+</a>
 
 These open using the same window rules as the rest of the portal.
 
@@ -121,8 +132,11 @@ The portal is built with:
 All functionality is client‑side.
 
 ---
+ <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%208/Copilot_20260523_195239%20-%20Copy.png" width="100%">
 
-##### **GitHub API Usage**
+
+
+#### **GitHub API Usage**
 The Constellation browser uses the **public GitHub REST API** to:
 
 - Fetch user repositories  
@@ -132,6 +146,7 @@ The Constellation browser uses the **public GitHub REST API** to:
 No authentication is required for public repos.
 
 ---
+ <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/Copilot_20260612_022344.png" width="100%">
 
 ##### **Tool Window Behavior**
 The embedded tool window respects:
@@ -143,6 +158,8 @@ The embedded tool window respects:
 Developers can extend this behavior by modifying `index.js`.
 
 ---
+
+<img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%208/Copilot_20260523_230323.png" width="100%">
 
 ##### **Customization**
 You can modify:
