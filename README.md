@@ -37,9 +37,9 @@ The **Mercwar AI Portal** is an interactive web interface that lets users:
 Everything runs client‑side with no installation required.
 
 ---
-<img width="100%" src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/mercwar-font.png">
 
 
+<img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/cyborg-mercwarai.png" width="100%">
 #### 👤 For Users
 
 ##### 1. **Opening the Main Gate**
@@ -47,8 +47,15 @@ Click **Joe Tron’s Avis Gate** to open the primary uplink window.
 If **Up‑link Window** is enabled, portals load inside the page instead of a new tab.
 
 ---
-<img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%208/Copilot_20260523_230323.png" width="100%">
 
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<img 
+    src="images/cyborg_live.png" 
+    alt="Mercwar Constellation" 
+    style="width:100%; height:auto;"
+/>
+  
+</a>
 ##### 2. **Sidebar Controls**
 Two toggles modify how the interface behaves:
 
@@ -69,6 +76,7 @@ The **CONSTELLATION** dropdown contains a live GitHub repo explorer:
 This allows browsing **any GitHub user’s public repositories** directly inside the portal.
 
 ---
+<img width="100%" src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/mercwar-font.png">
 
 ##### 4. **System Hub**
 Quick‑launch tools for:
@@ -77,14 +85,7 @@ Quick‑launch tools for:
 - Firefox 
 - MS-E
 - DHTML Browsers
-<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
-<img 
-    src="images/cyborg_live.png" 
-    alt="Mercwar Constellation" 
-    style="width:100%; height:auto;"
-/>
-  
-</a>
+
 
 These open using the same window rules as the rest of the portal.
 
@@ -414,6 +415,9 @@ Just tell me which direction you want.
 * Delivered cross-platform tooling (DOS + Bash)
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/Copilot_20260612_022344.png" width="100%">
+</p>
 
 ##### 🌈 **Covenant Principles**
 
