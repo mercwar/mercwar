@@ -95,7 +95,7 @@ These open using the same window rules as the rest of the portal.
 
 <a target="_self" title="CLICK HERE to ENTER the Avis News GATEWAY FREE!" href="https://roborook.fanclub.rocks/AVIS-NEWS/index.php">
 <img 
-    src="images/image_2026-06-14_044943147.png" 
+    src="images/image_2026-06-14_051357976.png" 
     alt="Mercwar Avis News" 
     style="width:100%; height:auto;"
 />
