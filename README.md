@@ -3,10 +3,8 @@
   <img src="images/joe-tron-poral-1.png" width="100%" >
   </a>
 
-
-
- 
 </p>
+
 
    
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
@@ -95,10 +93,20 @@ These open using the same window rules as the rest of the portal.
 
 ---
 
+<a target="_self" title="CLICK HERE to ENTER the Avis News GATEWAY FREE!" href="https://roborook.fanclub.rocks/AVIS-NEWS/index.php">
+<img 
+    src="images/image_2026-06-14_044943147.png" 
+    alt="Mercwar Avis News" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
 ##### 5. **Mercwar Portal Systems**
 This menu links to all major Mercwar portals:
 
-- Mercwar AI Portal  
+- Joe Trons Avis News Gate
+- Mercwar AI Portal
+- Avis Search Engine 
 - Avis Fire‑Star  
 - Avis Ice‑Star  
 - Avis Void‑Star  
