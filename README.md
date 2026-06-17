@@ -114,7 +114,9 @@ This menu links to all major Mercwar portals:
 - GitHub User Portal  
 
 Each opens as a standalone portal environment.
+
 <a target="_self" title="CLICK HERE to ENTER the Avis News GATEWAY FREE!" href="https://roborook.fanclub.rocks/RRU-AI/SEARCH/index.php">
+     
 <img 
     src="images/image_2026-06-14_051730966.png" 
     alt="Mercwar Avis News" 
