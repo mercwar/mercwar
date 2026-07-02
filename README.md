@@ -223,9 +223,19 @@ All changes are isolated to HTML + CSS + JS.
 </p>
   <hr style="margin: 16px 0; border: 0; border-top: 1px solid #27272f;">
 
+---
 
+🔓 Unlock your AI with the GGML-LLAMA-MSVC-INSTALLER
 
+<a target="_self" title="MERCWAR AI" href="https://github.com/mercwar/GGML-LLAMA-MSVC-INSTALLER">
+<img 
+    src="https://raw.githubusercontent.com/mercwar/GGML-LLAMA-MSVC-INSTALLER/refs/heads/main/ChatGPT%20Image%20Jul%201%2C%202026%2C%2010_28_13%20PM.png" 
+    alt="Mercwar Constellation" 
+    style="width:100%; height:auto;"
+/>
+</a>
 
+---
   <p align="center">
   <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260503_003419.png" width="100%">
 </p>
@@ -409,15 +419,6 @@ All changes are isolated to HTML + CSS + JS.
 
 - Focused on building **high‑integrity execution environments** where artifacts are **traceable, governed, and reproducible by design**.
 
----
-
-If you want, I can also refine this into:
-
-- a **tighter corporate résumé block**  
-- a **ceremonial MERCWAR‑style version**  
-- a **GitHub README identity section**  
-
-Just tell me which direction you want.
 ---
 <p align="center">
   <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260503_004536.png" width="100%">
