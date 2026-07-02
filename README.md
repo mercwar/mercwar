@@ -221,16 +221,15 @@ All changes are isolated to HTML + CSS + JS.
       <p align="center">
   <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%204/Copilot_20260503_003318.png" width="100%">
 </p>
-  <hr style="margin: 16px 0; border: 0; border-top: 1px solid #27272f;">
 
----
+##
 
-🔓 Unlock your AI with the GGML-LLAMA-MSVC-INSTALLER
+🔓 Unlock your AI with the <a target="_self" title="GOTO THE READ ME" href="https://github.com/mercwar/GGML-LLAMA-MSVC-INSTALLER">GGML-LLAMA-MSVC-INSTALLER</a>
 
-<a target="_self" title="MERCWAR AI" href="https://github.com/mercwar/GGML-LLAMA-MSVC-INSTALLER">
+<a target="_self" title="GOTO THE READ ME" href="https://github.com/mercwar/GGML-LLAMA-MSVC-INSTALLER">
 <img 
     src="https://raw.githubusercontent.com/mercwar/GGML-LLAMA-MSVC-INSTALLER/refs/heads/main/ChatGPT%20Image%20Jul%201%2C%202026%2C%2010_28_13%20PM.png" 
-    alt="Mercwar Constellation" 
+    alt="MERCWAR AI" 
     style="width:100%; height:auto;"
 />
 </a>
