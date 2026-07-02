@@ -42,12 +42,21 @@ Everything runs client‑side with no installation required.
    <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%208/Copilot_20260523_194901%20-%20Copy.png" width="100%">
 
 
+🔓 Unlock your AI with the <a target="_self" title="GOTO THE READ ME" href="https://github.com/mercwar/GGML-LLAMA-MSVC-INSTALLER">GGML-LLAMA-MSVC-INSTALLER</a>
+
+<a target="_self" title="GOTO THE READ ME" href="https://github.com/mercwar/GGML-LLAMA-MSVC-INSTALLER">
+<img 
+    src="https://raw.githubusercontent.com/mercwar/GGML-LLAMA-MSVC-INSTALLER/refs/heads/main/Copilot_20260701_235203.png" 
+    alt="MERCWAR AI" 
+    style="width:100%; height:auto;"
+/>
+</a>
 
 #### 👤 For Users
 
 ##### 1. **Opening the Main Gate**
-Click **Joe Tron’s Avis Gate** to open the primary uplink window.  
-If **Up‑link Window** is enabled, portals load inside the page instead of a new tab.
+- Click **Joe Tron’s Avis Gate** to open the primary uplink window.  
+- If **Up‑link Window** is enabled, portals load inside the page instead of a new tab.
 
 ---
 
