@@ -1,4 +1,5 @@
-<p align="center"> <img src="images/joe-tron-new-1.png" width="100%">  
+<p align="center"> 
+     <img src="images/joe-tron-new-1.png" width="100%">  
      <a href="https://roborook.fanclub.rocks" title="Click Here to Enter the portal for FREE!">
   <img src="images/joe-tron-poral-1.png" width="100%" >
   </a>
@@ -16,6 +17,23 @@
 </a>
 <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%2010/Copilot_20260627_053736.png" width="100%">
 
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="http://mercwar01.byethost3.com/AVIS-NEWS/index.php">
+<img 
+    src="images/news-screen.png" 
+    alt="Mercwar Constellation" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
+---
+
+<a target="_self" title="CLICK HERE to ENTER the Search Portal FREE!" href="http://mercwar01.byethost3.com/RRU-AI/SEARCH/index.php">
+<img 
+    src="images/search-screen.png" 
+    alt="Mercwar Constellation" 
+    style="width:100%; height:auto;"
+/>
+</a>
 
 <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/cyborg-mercwarai.png" width="100%">
 
