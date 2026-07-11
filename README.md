@@ -80,7 +80,7 @@ Everything runs client‑side with no installation required.
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
 <img 
-    src="images/cyborg_live.png" 
+    src="images/image_2026-07-10_212956808.png" 
     alt="Mercwar Constellation" 
     style="width:100%; height:auto;"
 />
