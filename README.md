@@ -34,7 +34,7 @@
     style="width:100%; height:auto;"
 />
 </a>
-
+<img src="images/image_2026-07-26_204545964.png" width="100%">
 <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/cyborg-mercwarai.png" width="100%">
 
 
