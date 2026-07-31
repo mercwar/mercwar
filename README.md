@@ -1,6 +1,7 @@
 <p align="center"> 
+          <a href="https://mercwar01.byethost3.com" title="Click Here to Enter the portal for FREE!">
      <img src="images/joe-tron-new-1.png" width="100%">  
-     <a href="https://roborook.fanclub.rocks" title="Click Here to Enter the portal for FREE!">
+
   <img src="images/joe-tron-poral-1.png" width="100%" >
   </a>
 
