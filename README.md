@@ -17,12 +17,11 @@
 />
 </a>
 
-<img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%2010/Copilot_20260627_053736.png" width="100%">
+<img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%2010/Copilot_20260627_053736.png" width="100%" />
 
 # ✨ Joe Tron's Dark-Com-2 💎🔥
 
-<a target="_self" title="CLICK HERE to Download Joe Tron's Dark-Com-2 Web Browse FREE!" href="http://github.com/mercwar/Dark-Com-2">
-          
+<a target="_self" title="CLICK HERE to Download Joe Tron's Dark-Com-2 Web Browse FREE!" href="http://github.com/mercwar/Dark-Com-2">        
 <img 
     src="https://github.com/mercwar/Dark-Com-2/blob/main/images/ChatGPT%20Image%20Sep%204%2C%202026%2C%2006_51_00%20AM.png" 
     alt="Joe Tron's Dark-Com-2 Web Browser" 
