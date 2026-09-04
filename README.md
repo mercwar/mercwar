@@ -31,8 +31,13 @@
 </a>
 
 #
-
-
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<img 
+    src="images/dc2-sg.png" 
+    alt="Mercwar Constellation" 
+    style="width:100%; height:auto;"
+/>
+</a>
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="http://mercwar01.byethost3.com/AVIS-NEWS/index.php">
 <img 
     src="images/news-screen.png" 
