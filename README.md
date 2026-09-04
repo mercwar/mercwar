@@ -16,7 +16,22 @@
     style="width:100%; height:auto;"
 />
 </a>
+
 <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%2010/Copilot_20260627_053736.png" width="100%">
+
+# ✨ Joe Tron's Dark-Com-2 💎🔥
+
+<a target="_self" title="CLICK HERE to Download Joe Tron's Dark-Com-2 Web Browse FREE!" href="http://github.com/mercwar/Dark-Com-2">
+          
+<img 
+    src="https://github.com/mercwar/Dark-Com-2/blob/main/images/ChatGPT%20Image%20Sep%204%2C%202026%2C%2006_51_00%20AM.png" 
+    alt="Joe Tron's Dark-Com-2 Web Browser" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
+#
+
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="http://mercwar01.byethost3.com/AVIS-NEWS/index.php">
 <img 
@@ -121,23 +136,8 @@ Quick‑launch tools for:
 
 These open using the same window rules as the rest of the portal.
 
----
-
-# ✨ Joe Tron's Dark-Com-2 💎🔥
-
-<a target="_self" title="CLICK HERE to Download Joe Tron's Dark-Com-2 Web Browse FREE!" href="http://github.com/mercwar/Dark-Com-2">
-          
-<img 
-    src="https://github.com/mercwar/Dark-Com-2/blob/main/images/ChatGPT%20Image%20Sep%204%2C%202026%2C%2006_51_00%20AM.png" 
-    alt="Joe Tron's Dark-Com-2 Web Browser" 
-    style="width:100%; height:auto;"
-/>
-</a>
-
 #
 
-
----
 <a target="_self" title="CLICK HERE to ENTER the Avis News GATEWAY FREE!" href="https://roborook.fanclub.rocks/AVIS-NEWS/index.php">
 <img 
     src="images/image_2026-07-10_213254295.png" 
