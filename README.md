@@ -14,10 +14,11 @@
     src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%207/image_d2a07390.png" 
     alt="Mercwar Constellation" 
     style="width:100%; height:auto;"
-/>
+/><br>
+<img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%2010/Copilot_20260627_053736.png" width="100%" />
+
 </a>
 
-<img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%2010/Copilot_20260627_053736.png" width="100%" />
 
 # ✨ Joe Tron's Dark-Com-2 💎🔥
 
