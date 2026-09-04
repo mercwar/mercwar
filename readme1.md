@@ -8,11 +8,13 @@
   <img src="images/joe-tron-poral-1.png" width="100%">
 </div>
   
- <h5>
-###### - This Uplink Landing & Gateways
-###### - Next uplink: [Developer Tools & Mission]('readme2.md') 
-   
- </h5>
+
+<h4>
+  
+###### - This Uplink Landing & Gateways  
+###### - Next uplink: [Developer Tools & Mission]('readme2.md')  
+
+</h4>
 <div class="section">
   <h2>🚀 Gateway Access</h2>
   <p>Click below to enter the Constellation Gateway.</p>
@@ -50,12 +52,12 @@
     <li>Explore GitHub repos directly via the **CONSTELLATION dropdown**.</li>
     <li>Return to Console anytime to reset your workspace.</li>
   </ul>
-  
- <h5>
-###### - This Uplink Landing & Gateways
-###### - Next uplink: [Developer Tools & Mission]('readme2.md') 
-   
 
- </h5>
+<h4>
+  
+###### - This Uplink Landing & Gateways  
+###### - Next uplink: [Developer Tools & Mission]('readme2.md')  
+
+</h4>
 </div>
 
