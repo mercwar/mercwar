@@ -49,8 +49,8 @@
   <ul>
     <li>Mercwar is a FREE Github Repository</li>
     <li>Feel free to just CLONE the whole thing!</li>
-    <li>Learn how to turn Mercwar into your own Eco-System at Joe Tron's Academys.</li>
-    <li>It is possible to establish your AI network Gateway using Mercwar files.</li>
+    <li>Learn how to turn Mercwar into your own Eco-system at Joe Tron's Academys.</li>
+    <li>It is possible to establish your AI Network Gateway using Mercwar files.</li>
   </ul>
 
 <h4>
