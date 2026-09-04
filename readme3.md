@@ -83,12 +83,13 @@ Forged under RK Fire & Gem — Purity through Creation
 
 <div class="section">
   <h2>📘 Tutorial: Advanced Usage</h2>
-  <ul>
-    <li>Mercwar is a FREE Github Repository</li>
-    <li>Feel free to just CLONE the whole thing!</li>
-    <li>Learn how to turn Mercwar into your own Eco-System at the Academys.</li>
-    <li>It is possible to establish your AI network Gateway using Mercwar files.</li>
+    <ul>
+    <li>Open the **Constellation Gateway** to access Mercwar systems.</li>
+    <li>Use the **Sidebar Controls** to pin navigation or open portals inline.</li>
+    <li>Explore GitHub repos directly via the **CONSTELLATION dropdown**.</li>
+    <li>Return to Console anytime to reset your workspace.</li>
   </ul>
+
 </div>
 
  <h5>
