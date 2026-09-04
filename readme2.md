@@ -14,10 +14,10 @@
 <div class="section">
   <h2>📂 Project Structure</h2>
   <ul>
-    <li><b>Mercwar</b> — Source files and executables</li>
-    <li><b>O/S</b> — Windows x86</li>
-    <li><b>Code Style</b> — Core Native win32/64 Api</li>
-    <li><b>AI Eco-Sys Content</b> — All that I have given to you</li>
+    <li><b>Mercwar</b> (Source files and executables)</li>
+    <li><b>O/S</b> (Windows x86)</li>
+    <li><b>Code Style</b> (Core Native win32/64 Api)</li>
+    <li><b>AI Eco-system Content</b> (All that I have given to you)</li>
   </ul>
 </div>
 
