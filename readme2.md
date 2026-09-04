@@ -7,9 +7,9 @@
  <h5>
 
    
-###### - Prev Uplink [Landing & Gateways]('readme1.md') 
+###### - Prev Uplink [Landing & Gateways](readme1.md) 
 ###### - This uplink: Developer Tools & Mission 
-###### - Next uplink: [Getting Started]('readme3.md')
+###### - Next uplink: [Identity, Philosophy & Tutorials](readme3.md)
  </h5>
 <div class="section">
   <h2>📂 Project Structure</h2>
@@ -45,7 +45,7 @@
 
  <h5>
 
-###### - Prev Uplink [Landing & Gateways]('readme1.md') 
+###### - Prev Uplink [Landing & Gateways](readme1.md) 
 ###### - This uplink: Developer Tools & Mission 
-###### - Next uplink: [Getting Started]('readme3.md')
+###### - Next uplink: [Identity, Philosophy & Tutorials](readme3.md)
  </h5>
