@@ -20,7 +20,7 @@
 </a>
 
 
-# ✨ Joe Tron's Dark-Com-2 💎🔥
+
 
 <a target="_self" title="CLICK HERE to Download Joe Tron's Dark-Com-2 Web Browse FREE!" href="http://github.com/mercwar/Dark-Com-2">        
 <img 
