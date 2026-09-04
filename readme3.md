@@ -25,7 +25,7 @@
   <h2>💡 AVIS-LAW Objectives</h2>
   <img src="https://github.com/mercwar/Robo-Knight-Gallery/blob/main/Version%205/image_41657621.png" width="100%">
   <ul>
-    <li>Establish FIRE-COM as a sovereign network interface</li>
+    <li>Establish DARK-COM as a sovereign network interface</li>
     <li>Deploy FIRE-GEM as a persistent execution engine</li>
     <li>Enable remote artifact creation via FIRE-GEM SHELL</li>
     <li>Expand AVIS-2026 into a distributed protocol system</li>
@@ -84,10 +84,10 @@ Forged under RK Fire & Gem — Purity through Creation
 <div class="section">
   <h2>📘 Tutorial: Advanced Usage</h2>
   <ul>
-    <li>Modify <code>index.js</code> to extend portal logic.</li>
-    <li>Customize <code>rru_gx.css</code> for theme styling.</li>
-    <li>Pin the sidebar for persistent navigation.</li>
-    <li>Switch between inline tool windows and external tabs using the **Up-link Window** toggle.</li>
+    <li>Mercwar is a FREE Github Repository</li>
+    <li>Feel free to just CLONE the whole thing!</li>
+    <li>Learn how to turn Mercwar into your own Eco-System at the Academys.</li>
+    <li>It is possible to establish your AI network Gateway using Mercwar files.</li>
   </ul>
 </div>
 
