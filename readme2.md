@@ -7,7 +7,7 @@
  <h5>
 
    
-###### - Prev Uplink [Landing & Gateways](readme1.md) 
+###### - Prev Uplink [Landing & Gateways](README.md) 
 ###### - This uplink: Developer Tools & Mission 
 ###### - Next uplink: [Identity, Philosophy & Tutorials](readme3.md)
  </h5>
@@ -45,7 +45,7 @@
 
  <h5>
 
-###### - Prev Uplink [Landing & Gateways](readme1.md) 
+###### - Prev Uplink [Landing & Gateways](README.md) 
 ###### - This uplink: Developer Tools & Mission 
 ###### - Next uplink: [Identity, Philosophy & Tutorials](readme3.md)
  </h5>
