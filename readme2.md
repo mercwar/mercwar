@@ -14,10 +14,10 @@
 <div class="section">
   <h2>📂 Project Structure</h2>
   <ul>
-    <li><b>index.html</b> — Main UI layout</li>
-    <li><b>css/index.css</b> — Core styling</li>
-    <li><b>css/rru_gx.css</b> — RRU/GX theme styling</li>
-    <li><b>js/index.js</b> — Portal logic, GitHub API calls</li>
+    <li><b>Mercwar</b> — Source files and executables</li>
+    <li><b>O/S</b> — Windows x86</li>
+    <li><b>Code Style</b> — Core Native win32/64 Api</li>
+    <li><b>AI Eco-Sys Content</b> — All that I have given to you</li>
   </ul>
 </div>
 
@@ -36,10 +36,12 @@
 <div class="section">
   <h2>📘 Tutorial: Developer Setup</h2>
   <ul>
-    <li>Clone the repo and open <code>index.html</code> in a modern browser.</li>
-    <li>Enable JavaScript for full functionality.</li>
-    <li>Modify <code>index.js</code> to extend portal behavior.</li>
-    <li>Customize CSS themes for RRU/GX aesthetics.</li>
+    <li>Browse, Clone the repos and run.</li>
+    <li>Most repos are installable and/or runnable.</li>
+    <li>Navigate the readme files and tutorials to use Mercwar AI.</li>
+    <li>Expect lower error levels from pre-compiled repos.</li>
+    <li>Expect Average error levels for ECO-SYSTEM content.</li>
+    <li>Expect Normal Learning levels for ECO-SYSTEM content.</li>
   </ul>
 </div>
 
