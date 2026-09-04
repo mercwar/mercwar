@@ -16,11 +16,7 @@
     style="width:100%; height:auto;"
 /><br>
 <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%2010/Copilot_20260627_053736.png" width="100%" />
-
 </a>
-
-
-
 
 <a target="_self" title="CLICK HERE to Download Joe Tron's Dark-Com-2 Web Browse FREE!" href="http://github.com/mercwar/Dark-Com-2">        
 <img 
@@ -30,7 +26,7 @@
 />
 </a>
 
-#
+
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
 <img 
     src="images/dc2-sg.png" 
@@ -46,7 +42,6 @@
 />
 </a>
 
----
 
 <a target="_self" title="CLICK HERE to ENTER the Search Portal FREE!" href="http://mercwar01.byethost3.com/RRU-AI/SEARCH/index.php">
 <img 
