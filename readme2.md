@@ -41,7 +41,7 @@
     <li>Navigate the readme files and tutorials to use Mercwar AI.</li>
     <li>Expect lower error levels from pre-compiled repos.</li>
     <li>Expect Average error levels for ECO-SYSTEM content.</li>
-    <li>Expect Normal Learning levels for ECO-SYSTEM content.</li>
+    <li>Expect Normal AI Learning levels for ECO-SYSTEM content.</li>
   </ul>
 </div>
 
