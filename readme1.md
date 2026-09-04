@@ -12,7 +12,7 @@
 <h4>
   
 ###### - This Uplink Landing & Gateways  
-###### - Next uplink: [Developer Tools & Mission]('readme2.md')  
+###### - Next uplink: [Developer Tools & Mission](readme2.md)  
 
 </h4>
 <div class="section">
@@ -56,7 +56,7 @@
 <h4>
   
 ###### - This Uplink Landing & Gateways  
-###### - Next uplink: [Developer Tools & Mission]('readme2.md')  
+###### - Next uplink: [Developer Tools & Mission](readme2.md)  
 
 </h4>
 </div>
