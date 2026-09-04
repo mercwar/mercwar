@@ -73,11 +73,12 @@ Forged under RK Fire & Gem — Purity through Creation
 <div class="section">
   <h2>📘 Tutorial: Navigating Mercwar Systems</h2>
   <ul>
-    <li>Use the **Avis News Gate** for updates and announcements.</li>
+    <li>Use the **Avis News Gate** in your free time.</li>
     <li>Access **RRU-AI Search** for intelligent queries across Mercwar portals.</li>
-    <li>Launch **Fire-Star, Ice-Star, Void-Star** for specialized environments.</li>
+    <li>Launch **Fire-Star, Ice-Star, Void-Star** and other relms for your AI Assistant (cgpt,copilot,gemini or any language model) .</li>
     <li>Explore the **GitHub Portal** to browse repositories directly.</li>
-    <li>Reset via **Return to Console** to clear active tool windows.</li>
+    <li>Visit Mercwar AI and take part within your own system independantly.</li>
+    <li>Learn how to computer program and how to create your own AI.</li>
   </ul>
 </div>
 
