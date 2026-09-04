@@ -7,7 +7,7 @@
  <h5>
   
 
-###### - Prev uplink: [Developer Tools & Mission ]('readme2.md') 
+###### - Prev uplink: [Developer Tools & Mission ](readme2.md) 
 ###### - This uplink: Identity, Philosophy & Tutorials
  </h5>
  
@@ -93,7 +93,7 @@ Forged under RK Fire & Gem — Purity through Creation
  <h5>
   
 
-###### - Prev uplink: [Developer Tools & Mission ]('readme2.md') 
+###### - Prev uplink: [Developer Tools & Mission ](readme2.md) 
 ###### - This uplink: Identity, Philosophy & Tutorials
  </h5>
  
