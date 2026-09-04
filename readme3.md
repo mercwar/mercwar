@@ -9,6 +9,7 @@
 
 ###### - Prev uplink: [Developer Tools & Mission ](readme2.md) 
 ###### - This uplink: Identity, Philosophy & Tutorials
+###### - Gateway [Landing & Gateways](README.md) 
  </h5>
  
 
@@ -91,9 +92,9 @@ Forged under RK Fire & Gem — Purity through Creation
 </div>
 
  <h5>
-  
 
 ###### - Prev uplink: [Developer Tools & Mission ](readme2.md) 
 ###### - This uplink: Identity, Philosophy & Tutorials
+###### - Gateway [Landing & Gateways](README.md) 
  </h5>
  
