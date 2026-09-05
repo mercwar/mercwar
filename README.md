@@ -15,6 +15,16 @@
 ###### - Next uplink: [Developer Tools & Mission](readme2.md)  
 
 </h4>
+
+
+<div class="section">
+  <h2>🌌 Dark-Com-2 Browser</h2>
+  <p>Download Joe Tron’s Dark-Com-2 Web Browser free.</p>
+  <a href="http://github.com/mercwar/Dark-Com-2">
+    <img src="https://github.com/mercwar/Dark-Com-2/blob/main/images/ChatGPT%20Image%20Sep%204%2C%202026%2C%2006_51_00%20AM.png" width="100%">
+  </a>
+</div>
+
 <div class="section">
   <h2>🚀 Gateway Access</h2>
   <p>Click below to enter the Constellation Gateway.</p>
@@ -24,13 +34,6 @@
   </a>
 </div>
 
-<div class="section">
-  <h2>🌌 Dark-Com-2 Browser</h2>
-  <p>Download Joe Tron’s Dark-Com-2 Web Browser free.</p>
-  <a href="http://github.com/mercwar/Dark-Com-2">
-    <img src="https://github.com/mercwar/Dark-Com-2/blob/main/images/ChatGPT%20Image%20Sep%204%2C%202026%2C%2006_51_00%20AM.png" width="100%">
-  </a>
-</div>
 
 <div class="section">
   <h2>📰 Avis News & Search</h2>
