@@ -25,6 +25,17 @@
   </a>
 </div>
 
+
+
+
+<div class="section">
+  <h2>🌌 AVIS-DATALAKE</h2>
+  <p>Connect now for free FREE!</p>
+<a href="https://cron.iblogger.org/AVIS-DATALAKE">
+  <img src="https://raw.githubusercontent.com/mercwar/AVIS-DATALAKE/refs/heads/main/banner.png" alt="AVIS Banner" style="border: none; max-width: 100%; height: auto;">
+</a>
+</div>
+
 <div class="section">
   <h2>🚀 Gateway Access</h2>
   <p>Click below to enter the Constellation Gateway.</p>
