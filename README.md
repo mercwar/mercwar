@@ -5,7 +5,7 @@
   <img src="images/joe-tron-new-1.png" width="100%"></a>
     <h1>⚡ Mercwar AI Portal</h1>
   <p>Constellation Gateway Reference for Users & Developers</p>
-    <a href="http://mercwar.github.com/Constellation">
+    <a href="http://mercwar.github.io/Constellation">
   <img src="images/joe-tron-poral-1.png" width="100%"></a>
 </div>
   
