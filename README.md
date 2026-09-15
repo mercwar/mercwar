@@ -1,11 +1,12 @@
 
 
 <div class="hero">
-
-  <img src="images/joe-tron-new-1.png" width="100%">
+  <a href="http://mercwar01.byethost3.com">
+  <img src="images/joe-tron-new-1.png" width="100%"></a>
     <h1>⚡ Mercwar AI Portal</h1>
   <p>Constellation Gateway Reference for Users & Developers</p>
-  <img src="images/joe-tron-poral-1.png" width="100%">
+    <a href="http://mercwar.github.com/Constellation">
+  <img src="images/joe-tron-poral-1.png" width="100%"></a>
 </div>
   
 
