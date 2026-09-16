@@ -42,7 +42,7 @@
   <p>Connect now for free FREE!</p>
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Quasar/index.html?quasar=AVIS-DL%2Fdl%2F2026%2F09%2F14%2F9-Tutorial.quasar">
 <img 
-    src="https://raw.githubusercontent.com/mercwar/Quasar/refs/heads/main/qsg.png" 
+    src="images/mw_sg.jpg" 
     alt="Mercwar Quasar" 
     style="width:100%; height:auto;"
 />
