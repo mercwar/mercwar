@@ -38,6 +38,18 @@
 </div>
 
 <div class="section">
+  <h2>✨ Quasar</h2>
+  <p>Connect now for free FREE!</p>
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Quasar/index.html?quasar=AVIS-DL%2Fdl%2F2026%2F09%2F14%2F9-Tutorial.quasar">
+<img 
+    src="qsg.png" 
+    alt="Mercwar Quasar" 
+    style="width:100%; height:auto;"
+/>
+</a>
+</div>
+
+<div class="section">
   <h2>🚀 Gateway Access</h2>
   <p>Click below to enter the Constellation Gateway.</p>
   <a href="https://mercwar.github.io/Constellation/index.html">
