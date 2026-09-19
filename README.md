@@ -30,6 +30,18 @@
 </div>
 
 <div class="section">
+  <h2>✨ Stargate</h2>
+  <p>Connect now for free FREE!</p>
+<a target="_top" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://cron.iblogger.org/Stargate/index.php?sg=https%3A%2F%2Fraw.githubusercontent.com%2Fmercwar%2FAVIS-DL%2Fmain%2Fsg%2F2026%2F09%2F18%2FKEY-DEFAULT%2F01-Constellation-json.sg">
+<img 
+    src="https://github.com/mercwar/Stargate/blob/main/ss2.png" 
+    alt="Mercwar Stargate" 
+    style="width:100%; height:auto;"
+/>
+</a>
+</div>
+
+<div class="section">
   <h2>🌌 Dark-Com-2 Browser</h2>
   <p>Download Joe Tron’s Dark-Com-2 Web Browser free.</p>
   <a href="http://github.com/mercwar/Dark-Com-2">
