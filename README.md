@@ -28,7 +28,17 @@
 />
 </a>
 </div>
-
+<div class="section">
+  <h2>✨ Cyborg web directory and 💤 </h2>
+  <p>Submit your URL for free FREE!</p>
+<a target="_self" title="CLICK HERE to ENTER the 💤 FREE!" href="https://cron.iblogger.org/Station/zzz.php">
+<img 
+    src="images/rts.png" 
+    alt="Cyborg 💤" 
+    style="width:100%; height:auto;"
+/>
+</a>
+</div>
 <div class="section">
   <h2>✨ Stargate</h2>
   <p>Connect now for free FREE!</p>
