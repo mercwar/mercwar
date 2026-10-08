@@ -98,7 +98,7 @@
 <div class="section">
   <h2>🪂️ All of THEE Emoji</h2>
   <p>Choose from 3,000+ emoji for FREE!</p>
-<a target="_self" title="CLICK HERE TO ENTER THE MERCWAR GATEWAY FREE!" href="https://github.com/mercwar/CVBGOD-EMOJI/README.md">
+<a target="_self" title="CLICK HERE TO ENTER THE MERCWAR GATEWAY FREE!" href="https://github.com/mercwar/CVBGOD-EMOJI">
 <img 
     src="https://github.com/mercwar/CVBGOD-EMOJI/blob/main/ChatGPT%20Image%20Oct%207%2C%202026%2C%2005_43_10%20PM.png" 
     alt="Mercwar FREE Emojiy" 
