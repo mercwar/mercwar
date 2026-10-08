@@ -12,13 +12,14 @@
 
 <h4>
   
-###### - This Uplink Landing & Gateways  
+###### - This Uplink Main Landing & Gateways  
+###### - Next uplink: [Cyborg Readme](https://github.com/mercwar/Cyborg/blob/main/CONTRIBUTING.md)
 ###### - Next uplink: [Developer Tools & Mission](readme2.md)  
 
 </h4>
 <div class="section">
-  <h2>✨ Cyborg Station</h2>
-  <p>Connect now for free FREE!</p>
+  <h2>✨ Profile and Introduction</h2>
+  Browse, Learn, Link and Connect now for FREE!</p>
 <a target="_self" title="CLICK HERE to ENTER the Station FREE!" href="https://cron.iblogger.org/Station">
 <img 
     src="images/joetron-cvbg.png" 
@@ -28,7 +29,7 @@
 </a>
 <div class="section">
   <h2>✨ Cyborg Station</h2>
-  <p>Connect now for free FREE!</p>
+  <p>FREE UPLINKS!</p>
 <a target="_self" title="CLICK HERE to ENTER the Station FREE!" href="https://cron.iblogger.org/Station">
 <img 
     src="https://github.com/mercwar/Station/blob/main/cs4.png" 
