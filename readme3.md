@@ -66,7 +66,7 @@
 © 2026 MERCWAR / AVIS-2026 Protocol Law
 Forged under RK Fire & Gem — Purity through Creation
   </pre>
-  <p><i>"If you want the next evolution, the real power move is AI."</i></p>
+  <p><i>"If you want the next evolution, the real power move is AI."   ~ Joe Tron</i></p>
   <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/Gemini_Generated_Image_f6vk3lf6vk3lf6vk.png" width="100%">
 </div>
 
