@@ -140,7 +140,7 @@
 <div class="section">
   <h2>🛰 Portal Showcase</h2>
   <a href="http://mercwar01.byethost3.com">
-  <img src="images/image_2026-07-26_204545964.png" width="100%">
+  <img src="images/rss.png" width="100%">
   <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/cyborg-mercwarai.png" width="100%">
   </a>
 </div>
