@@ -110,6 +110,17 @@
 </div>
 
 <div class="section">
+  <h2>📡 Cyborg Live Version 2</h2>
+  <p>Click below to enter the Cyborg Live Version 2 Gateway.</p>
+      <a target="_self" title="CLICK HERE to ENTER CL2 FREE!" href="https://cron.iblogger.org/CL2">
+    <img src="https://raw.githubusercontent.com/mercwar/CL2/refs/heads/main/images/cl2.jpg" alt="Mercwar CL2 Gateway" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #00F2FF; box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);" />
+  </a>
+</div>
+
+
+
+  
+<div class="section">
   <h2>🚀 Gateway Access</h2>
   <p>Click below to enter the Constellation Gateway.</p>
   <a href="https://mercwar.github.io/Constellation/index.html">
