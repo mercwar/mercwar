@@ -122,6 +122,19 @@
 </a>
 </div>
 
+### 🌈 Cyborg Evolution Version 5 is here !
+
+- [Click Here](https://mercwar.github.io/Cyborg/CeV5) to View "<i>THE CYBORG eV5 CHRONICLES</i>"
+  
+
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Cyborg/CeV5">
+<img 
+    src="https://github.com/mercwar/Cyborg/blob/main/images/Cyborg%20Evolution_%20The%20Next%20Chapter.png" 
+    alt="Mercwar Constellation" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
 <div class="section">
   <h2>📡 Cyborg Live Version 2</h2>
   <p>Click below to enter the Cyborg Live Version 2 Gateway.</p>
