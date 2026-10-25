@@ -64,6 +64,18 @@
 </a>
 </div>
 
+
+<div style="text-align: center; margin: 24px 0;">
+    <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://github.com/mercwar/Eclipse">
+    <img 
+        src="https://github.com/mercwar/Eclipse/blob/main/images/bb.jpg" 
+        alt="Eclipse Gateway Interface" 
+        style="width:100%; height:auto; border-radius:12px; box-shadow:0 6px 16px rgba(0,0,0,0.6);"
+    />
+    </a>
+</div>
+
+
 <div class="section">
   <h2>🌌 Dark-Com-2 Browser</h2>
   <p>Download Joe Tron’s Dark-Com-2 Web Browser free.</p>
