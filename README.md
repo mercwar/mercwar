@@ -65,7 +65,7 @@
 </div>
 
 <div class="section">
-  <h2>✨ Eclipse Gateway 💤 </h2>
+  <h2>💫 Eclipse </h2>
 <div style="text-align: center; margin: 24px 0;">
     <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://github.com/mercwar/Eclipse">
     <img 
