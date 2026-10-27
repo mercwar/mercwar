@@ -40,6 +40,21 @@
 />
 </a>
 </div>
+
+
+  <div class="section">
+  <h2>💥 dc2url command line browser</h2>
+  <p>Install the NEW  http/file/JavaScript Enabled, web app caller FREE <a target="_self" title="CLICK HERE to get dc2url FREE!" href="https://github.com/mercwar/dc2url">HERE</a> !
+  </p>
+<a target="_self" title="CLICK HERE to get dc2url FREE!" href="https://github.com/mercwar/dc2url">
+<img 
+    src="https://github.com/mercwar/dc2url/blob/main/images/dc2.png" 
+    alt="dc2url" 
+    style="width:100%; height:auto;"
+/>
+</a>
+</div>
+
 <div class="section">
   <h2>✨ Cyborg web directory and 💤 </h2>
   <p>Submit your URL for free FREE!</p>
