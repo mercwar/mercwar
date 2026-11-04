@@ -40,20 +40,6 @@
 />
 </a>
 </div>
-
-
-  <div class="section">
-  <h2>💥 Mercwar-AI Digital Signature & Cyborg Application for MSVC</h2>
-  <p>Install the NEW Mercwar-AI Digital Signature & Cyborg FREE <a target="_self" title="CLICK HERE to get Mercwar-AI FREE!" href="https://github.com/mercwar/dc2url">HERE</a> !
-  </p>
-<a target="_self" title="CLICK HERE to get Mercwar-AI FREE!" href="https://github.com/mercwar/Mercwar-AI">
-<img 
-    src="https://github.com/mercwar/Mercwar-AI/blob/main/images/dsp.png" 
-    alt="dc2url" 
-    style="width:100%; height:auto;"
-/>
-</a>
-</div>
   <div class="section">
   <h2>💥 dc2url command line browser</h2>
   <p>Install the NEW  http/file/JavaScript Enabled, web app caller FREE <a target="_self" title="CLICK HERE to get dc2url FREE!" href="https://github.com/mercwar/dc2url">HERE</a> !
@@ -66,6 +52,27 @@
 />
 </a>
 </div>
+  
+## 🧭 AVIS-DATALAKE TUTORIAL - PUSHING RECORDS YOURSELF
+
+Explore the complete implementation guides and step-by-step tutorials for the AVIS Datalake and Starmap system:
+* [Readme : AVIS-DATALAKE TUTORIAL AND API REFERENCE](https://github.com/mercwar/AVIS-DATALAKE/blob/main/avis-datalake/README.md) — ACCESSING THE AVIS DATALAKE YOURSELF
+    
+  <div class="section">
+  <h2>💥 Mercwar-AI Digital Signature & Cyborg Application for MSVC</h2>
+  <p>Install the NEW Mercwar-AI Digital Signature & Cyborg FREE <a target="_self" title="CLICK HERE to get Mercwar-AI FREE!" href="https://github.com/mercwar/dc2url">HERE</a> !
+  </p>
+<a target="_self" title="CLICK HERE to get Mercwar-AI FREE!" href="https://github.com/mercwar/Mercwar-AI">
+<img 
+    src="https://github.com/mercwar/Mercwar-AI/blob/main/images/dsp.png" 
+    alt="dc2url" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
+
+</div>
+
 <div class="section">
   <h2>✨ Cyborg web directory and 💤 </h2>
   <p>Submit your URL for free FREE!</p>
