@@ -72,6 +72,21 @@ Explore the complete implementation guides and step-by-step tutorials for the AV
 
 
 </div>
+  <div class="section">
+  <h2>💥 dc2php for MS Windows</h2>
+  <p>Install the NEW dc2php FREE <a target="_self" title="CLICK HERE to get dc2php FREE!" href="https://github.com/mercwar/dc2url">HERE</a> !
+  </p>
+<a target="_self" title="CLICK HERE to getdc2php FREE!" href="https://github.com/mercwar/dc2php">
+<img 
+    src="https://github.com/mercwar/dc2php/blob/main/images/dc2rm.png" 
+    alt="dc2url" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
+
+</div>
+
 
 <div class="section">
   <h2>✨ Cyborg web directory and 💤 </h2>
