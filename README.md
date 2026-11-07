@@ -74,7 +74,7 @@ Explore the complete implementation guides and step-by-step tutorials for the AV
 </div>
   <div class="section">
   <h2>💥 dc2php for MS Windows</h2>
-  <p>Install the NEW dc2php FREE <a target="_self" title="CLICK HERE to get dc2php FREE!" href="https://github.com/mercwar/dc2url">HERE</a> !
+  <p>Install the NEW dc2php FREE <a target="_self" title="CLICK HERE to get dc2php FREE!" href="https://github.com/mercwar/dc2php">HERE</a> !
   </p>
 <a target="_self" title="CLICK HERE to getdc2php FREE!" href="https://github.com/mercwar/dc2php">
 <img 
