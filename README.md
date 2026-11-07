@@ -78,7 +78,7 @@ Explore the complete implementation guides and step-by-step tutorials for the AV
   </p>
 <a target="_self" title="CLICK HERE to getdc2php FREE!" href="https://github.com/mercwar/dc2php">
 <img 
-    src="https://github.com/mercwar/dc2php/blob/main/images/dc2rm.png" 
+    src="https://github.com/mercwar/dc2php/blob/main/images/dc2php.png" 
     alt="dc2url" 
     style="width:100%; height:auto;"
 />
