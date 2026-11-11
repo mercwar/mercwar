@@ -167,6 +167,18 @@ Explore the complete implementation guides and step-by-step tutorials for the AV
 
 
 <div class="section">
+  <h2>💫 Mercwar Comic Books</h2>
+  <p>Read the latest book for FREE!</p>
+<a target="_self" title="CLICK HERE... Try READING a COMIC BOOK for FREE!" href="https://github.com/mercwar/Comics">
+<img 
+    src="https://github.com/mercwar/Comics/blob/main/images/cb1.png" 
+    alt="Mercwar Comics" 
+    style="width:100%; height:auto;"
+/>
+</a>
+</div>
+
+<div class="section">
   <h2>🪂️ All of THEE Emoji</h2>
   <p>Choose from 3,000+ emoji for FREE!</p>
 <a target="_self" title="CLICK HERE... GET All of THEE Emoji for FREE!" href="https://github.com/mercwar/CVBGOD-EMOJI">
