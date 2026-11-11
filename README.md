@@ -56,7 +56,8 @@
 ## 🧭 AVIS-DATALAKE TUTORIAL - PUSHING RECORDS YOURSELF
 
 Explore the complete implementation guides and step-by-step tutorials for the AVIS Datalake and Starmap system:
-* [Readme : AVIS-DATALAKE TUTORIAL AND API REFERENCE](https://github.com/mercwar/AVIS-DATALAKE/blob/main/avis-datalake/README.md) — ACCESSING THE AVIS DATALAKE YOURSELF
+### 🗝️ ACCESSING THE AVIS DATALAKE YOURSELF
+- AVIS-DATALAKE AND API REFERENCE [Tutorial](https://github.com/mercwar/AVIS-DATALAKE/blob/main/avis-datalake/README.md)
     
   <div class="section">
   <h2>💥 Mercwar-AI Digital Signature & Cyborg Application for MSVC</h2>
