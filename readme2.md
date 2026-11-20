@@ -18,7 +18,7 @@ The new github script folder link compatable can be found here <a target="_self"
 
 <a target="_self" title="CLICK HERE to ENTER the AVIS STARGATE FREE!" href="https://mercwar.github.io/AVIS-DATALAKE/">
 <img 
-    src="images/adlsm.png" 
+    src="https://raw.githubusercontent.com/mercwar/AVIS-DATALAKE/main/images/adlsm.png" 
     alt="AVIS STARMAP" 
     style="width:100%; height:auto;"
 />
