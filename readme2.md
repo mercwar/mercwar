@@ -1,6 +1,6 @@
 
 <div class="hero">
-  <h1>🧑‍💻 Developer Reference</h1>
+  <h3>🧑‍💻 Developer Reference</h1>
   <p>Project Structure, API Usage, and Customization</p>
   <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%208/Copilot_20260523_195239%20-%20Copy.png" width="100%">
 </div>
@@ -12,13 +12,13 @@
 ###### - Next uplink: [Identity, Philosophy & Tutorials](readme3.md)
  </h5>
  
-# 🌌 AVIS‑DATALAKE Star Map Tutorial 
+##### 🌌 AVIS‑DATALAKE Star Map Tutorial 
 
 The new github script folder link compatable can be found here <a target="_self" title="CLICK HERE to ENTER the AVIS STARGATE FREE!" href="https://mercwar.github.io/AVIS-DATALAKE/">HERE</a>
 
 <a target="_self" title="CLICK HERE to ENTER the AVIS STARGATE FREE!" href="https://mercwar.github.io/AVIS-DATALAKE/">
 <img 
-    src="https://raw.githubusercontent.com/mercwar/AVIS-DATALAKE/main/images/adlsm.png" 
+    src="images/adl-sg-ss.png" 
     alt="AVIS STARMAP" 
     style="width:100%; height:auto;"
 />
