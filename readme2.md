@@ -24,8 +24,10 @@ The new github script folder link compatable can be found here <a target="_self"
 />
 </a>
 
+#####
+
 <div class="section">
-  <h2>📂 Project Structure</h2>
+  <h4>📂 Project Structure</h2>
   <ul>
     <li><b>Mercwar</b> (Source files and executables)</li>
     <li><b>O/S</b> (Windows x86)</li>
@@ -35,7 +37,7 @@ The new github script folder link compatable can be found here <a target="_self"
 </div>
 
 <div class="section">
-  <h2>🔗 GitHub API Usage</h2>
+  <h4>🔗 GitHub API Usage</h2>
   <p>The Constellation browser uses the public GitHub REST API to fetch repositories and load them inline.</p>
   <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/main/Version%209/Copilot_20260612_021933.png" width="100%">
 </div>
@@ -47,7 +49,7 @@ The new github script folder link compatable can be found here <a target="_self"
 </div>
 
 <div class="section">
-  <h2>📘 Tutorial: Developer Setup</h2>
+  <h4>📘 Tutorial: Developer Setup</h2>
   <ul>
     <li>Browse, Clone the repos and run.</li>
     <li>Most repos are installable and/or runnable.</li>
