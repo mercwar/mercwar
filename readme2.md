@@ -11,6 +11,19 @@
 ###### - This uplink: Developer Tools & Mission 
 ###### - Next uplink: [Identity, Philosophy & Tutorials](readme3.md)
  </h5>
+ 
+# 🌌 AVIS‑DATALAKE Star Map Tutorial 
+
+The new github script folder link compatable can be found here <a target="_self" title="CLICK HERE to ENTER the AVIS STARGATE FREE!" href="https://mercwar.github.io/AVIS-DATALAKE/">HERE</a>
+
+<a target="_self" title="CLICK HERE to ENTER the AVIS STARGATE FREE!" href="https://mercwar.github.io/AVIS-DATALAKE/">
+<img 
+    src="images/adlsm.png" 
+    alt="AVIS STARMAP" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
 <div class="section">
   <h2>📂 Project Structure</h2>
   <ul>
