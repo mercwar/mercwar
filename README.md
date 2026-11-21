@@ -42,8 +42,8 @@
 
 </div>
   <div class="section">
-  <h2>💥 CBORD win32api command line Hex String Commander</h2>
-  <p>Install the NEW CBORD Command Applicaiton FREE <a target="_self" title="CLICK HERE to get CBORD FREE!" href="https://github.com/mercwar/CBORD">HERE</a> !
+  <h2>💥 CBORD win32api Kernel Shell </h2>
+  <p>Install the NEW Long awaited Cyborg HeX String Application FREE <a target="_self" title="CLICK HERE to get CBORD FREE!" href="https://github.com/mercwar/CBORD">HERE</a> !
   </p>
 <a target="_self" title="CLICK HERE to get CBORD FREE!" href="https://github.com/mercwar/CBORD">
 <img 
