@@ -65,8 +65,19 @@
 />
 </a>
 </div>
+  <div class="section">
+  <h2>💥 CBORG IDE/NOTEPAD/EXEC </h2>
+  <p>Install the NEW Long awaited CBORG IDE FREE <a target="_self" title="CLICK HERE to get CBORG FREE!" href="https://github.com/mercwar/CBORG">HERE</a> !
+  </p>
+<a target="_self" title="CLICK HERE to get CYBORD FREE!" href="https://github.com/mercwar/CYBORD">
+<img 
+    src="https://github.com/mercwar/CBORG/blob/main/images/cbrg3.png" 
+    alt="CBORG" 
+    style="width:100%; height:auto;"
+/>
+</a>
+</div>
 
-  
 </div>
   <div class="section">
   <h2>💥 dc2url command line browser</h2>
