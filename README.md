@@ -53,6 +53,18 @@
 />
 </a>
 </div>
+  <div class="section">
+  <h2>💥 CYBORD PHP EXEC (Double Click PHP files) </h2>
+  <p>Install the NEW Long awaited Cyborg HeX String Emulator FREE <a target="_self" title="CLICK HERE to get CBORD FREE!" href="https://github.com/mercwar/CYBORD">HERE</a> !
+  </p>
+<a target="_self" title="CLICK HERE to get CYBORD FREE!" href="https://github.com/mercwar/CYBORD">
+<img 
+    src="images/cbrd2.jpg" 
+    alt="CYBORD" 
+    style="width:100%; height:auto;"
+/>
+</a>
+</div>
 
   
 </div>
