@@ -306,4 +306,7 @@ Explore the complete implementation guides and step-by-step tutorials for the AV
 
 </h4>
 </div>
-
+<p align="left">
+  <b>Mercwar AI • Constellation Gateway Uplink • Cyborg Ecosystem</b><br/>
+  <sub>Copyright © Mercwar AI. All rights reserved.</sub>
+</p>
