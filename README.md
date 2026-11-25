@@ -78,6 +78,18 @@
 </a>
 </div>
 
+### 💫 Cyborg — Headless DLL & Command-Line Digital Signer
+
+##### 📦 *Headless DLL & Command-Line Digital Signer for Windows x64*
+
+<div align="center">
+<a target="_self" title="CLICK HERE to get CYBORG FREE!" href="https://github.com/mercwar/Cyborg/CYBORG">
+<img src="https://github.com/mercwar/Cyborg/blob/main/images/cb1.jpg" alt="Cyborg Digital Signature Banner" />
+</a>
+<br />
+
+</div>
+
 </div>
   <div class="section">
   <h2>💥 dc2url command line browser</h2>
